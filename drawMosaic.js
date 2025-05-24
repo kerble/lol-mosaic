@@ -1,5 +1,5 @@
-const gridWidth = 64;
-const gridHeight = 64;
+const gridWidth = 128;
+const gridHeight = 128;
 const itemSize = 64; // or whatever your icon size is
 
 let itemData = []; // loaded from item-colors.json
