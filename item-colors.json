@@ -1,0 +1,6802 @@
+[
+  {
+    "name": "Abyssal_Mask_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 33,
+        "g": 85,
+        "b": 72
+      },
+      "topRight": {
+        "r": 38,
+        "g": 95,
+        "b": 81
+      },
+      "bottomLeft": {
+        "r": 55,
+        "g": 84,
+        "b": 88
+      },
+      "bottomRight": {
+        "r": 60,
+        "g": 93,
+        "b": 97
+      }
+    }
+  },
+  {
+    "name": "Aegis_of_the_Legion_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 96,
+        "g": 124,
+        "b": 96
+      },
+      "topRight": {
+        "r": 115,
+        "g": 128,
+        "b": 79
+      },
+      "bottomLeft": {
+        "r": 79,
+        "g": 96,
+        "b": 68
+      },
+      "bottomRight": {
+        "r": 64,
+        "g": 74,
+        "b": 51
+      }
+    }
+  },
+  {
+    "name": "Aether_Wisp_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 33,
+        "g": 127,
+        "b": 136
+      },
+      "topRight": {
+        "r": 48,
+        "g": 103,
+        "b": 126
+      },
+      "bottomLeft": {
+        "r": 11,
+        "g": 77,
+        "b": 97
+      },
+      "bottomRight": {
+        "r": 8,
+        "g": 57,
+        "b": 103
+      }
+    }
+  },
+  {
+    "name": "Amplifying_Tome_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 69,
+        "g": 33,
+        "b": 33
+      },
+      "topRight": {
+        "r": 94,
+        "g": 52,
+        "b": 47
+      },
+      "bottomLeft": {
+        "r": 103,
+        "g": 72,
+        "b": 66
+      },
+      "bottomRight": {
+        "r": 98,
+        "g": 65,
+        "b": 59
+      }
+    }
+  },
+  {
+    "name": "Anathema's_Chains_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 42,
+        "g": 91,
+        "b": 97
+      },
+      "topRight": {
+        "r": 27,
+        "g": 59,
+        "b": 64
+      },
+      "bottomLeft": {
+        "r": 37,
+        "g": 111,
+        "b": 127
+      },
+      "bottomRight": {
+        "r": 31,
+        "g": 81,
+        "b": 95
+      }
+    }
+  },
+  {
+    "name": "Archangel's_Staff_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 61,
+        "g": 83,
+        "b": 103
+      },
+      "topRight": {
+        "r": 28,
+        "g": 93,
+        "b": 158
+      },
+      "bottomLeft": {
+        "r": 54,
+        "g": 64,
+        "b": 80
+      },
+      "bottomRight": {
+        "r": 44,
+        "g": 79,
+        "b": 107
+      }
+    }
+  },
+  {
+    "name": "Ardent_Censer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 110,
+        "g": 80,
+        "b": 86
+      },
+      "topRight": {
+        "r": 78,
+        "g": 74,
+        "b": 75
+      },
+      "bottomLeft": {
+        "r": 120,
+        "g": 54,
+        "b": 67
+      },
+      "bottomRight": {
+        "r": 100,
+        "g": 73,
+        "b": 80
+      }
+    }
+  },
+  {
+    "name": "Axiom_Arc_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 76,
+        "g": 138,
+        "b": 114
+      },
+      "topRight": {
+        "r": 68,
+        "g": 132,
+        "b": 102
+      },
+      "bottomLeft": {
+        "r": 78,
+        "g": 112,
+        "b": 76
+      },
+      "bottomRight": {
+        "r": 73,
+        "g": 112,
+        "b": 79
+      }
+    }
+  },
+  {
+    "name": "B._F._Sword_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 113,
+        "g": 113,
+        "b": 89
+      },
+      "topRight": {
+        "r": 35,
+        "g": 30,
+        "b": 22
+      },
+      "bottomLeft": {
+        "r": 40,
+        "g": 31,
+        "b": 26
+      },
+      "bottomRight": {
+        "r": 26,
+        "g": 35,
+        "b": 51
+      }
+    }
+  },
+  {
+    "name": "Bami's_Cinder_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 109,
+        "g": 27,
+        "b": 15
+      },
+      "topRight": {
+        "r": 89,
+        "g": 18,
+        "b": 16
+      },
+      "bottomLeft": {
+        "r": 150,
+        "g": 68,
+        "b": 18
+      },
+      "bottomRight": {
+        "r": 158,
+        "g": 70,
+        "b": 20
+      }
+    }
+  },
+  {
+    "name": "Bandleglass_Mirror_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 107,
+        "g": 129,
+        "b": 118
+      },
+      "topRight": {
+        "r": 101,
+        "g": 123,
+        "b": 114
+      },
+      "bottomLeft": {
+        "r": 138,
+        "g": 121,
+        "b": 106
+      },
+      "bottomRight": {
+        "r": 117,
+        "g": 100,
+        "b": 87
+      }
+    }
+  },
+  {
+    "name": "Banshee's_Veil_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 72,
+        "g": 85,
+        "b": 120
+      },
+      "topRight": {
+        "r": 73,
+        "g": 97,
+        "b": 131
+      },
+      "bottomLeft": {
+        "r": 90,
+        "g": 61,
+        "b": 105
+      },
+      "bottomRight": {
+        "r": 56,
+        "g": 64,
+        "b": 101
+      }
+    }
+  },
+  {
+    "name": "Base_Turret_Reinforced_Armor_(Turret_Item)_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 42,
+        "g": 62,
+        "b": 99
+      },
+      "topRight": {
+        "r": 39,
+        "g": 54,
+        "b": 82
+      },
+      "bottomLeft": {
+        "r": 53,
+        "g": 67,
+        "b": 95
+      },
+      "bottomRight": {
+        "r": 23,
+        "g": 35,
+        "b": 57
+      }
+    }
+  },
+  {
+    "name": "Berserker's_Greaves_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 57,
+        "g": 50,
+        "b": 45
+      },
+      "topRight": {
+        "r": 83,
+        "g": 71,
+        "b": 45
+      },
+      "bottomLeft": {
+        "r": 89,
+        "g": 78,
+        "b": 52
+      },
+      "bottomRight": {
+        "r": 108,
+        "g": 93,
+        "b": 59
+      }
+    }
+  },
+  {
+    "name": "Blackfire_Torch_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 120,
+        "g": 78,
+        "b": 139
+      },
+      "topRight": {
+        "r": 106,
+        "g": 72,
+        "b": 121
+      },
+      "bottomLeft": {
+        "r": 75,
+        "g": 52,
+        "b": 109
+      },
+      "bottomRight": {
+        "r": 106,
+        "g": 70,
+        "b": 131
+      }
+    }
+  },
+  {
+    "name": "Black_Cleaver_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 51,
+        "g": 39,
+        "b": 50
+      },
+      "topRight": {
+        "r": 84,
+        "g": 50,
+        "b": 62
+      },
+      "bottomLeft": {
+        "r": 54,
+        "g": 26,
+        "b": 39
+      },
+      "bottomRight": {
+        "r": 119,
+        "g": 106,
+        "b": 116
+      }
+    }
+  },
+  {
+    "name": "Black_Hole_Gauntlet_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 109,
+        "g": 75,
+        "b": 163
+      },
+      "topRight": {
+        "r": 95,
+        "g": 66,
+        "b": 140
+      },
+      "bottomLeft": {
+        "r": 98,
+        "g": 61,
+        "b": 146
+      },
+      "bottomRight": {
+        "r": 95,
+        "g": 65,
+        "b": 132
+      }
+    }
+  },
+  {
+    "name": "Black_Spear_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 16,
+        "g": 51,
+        "b": 65
+      },
+      "topRight": {
+        "r": 36,
+        "g": 78,
+        "b": 80
+      },
+      "bottomLeft": {
+        "r": 53,
+        "g": 126,
+        "b": 124
+      },
+      "bottomRight": {
+        "r": 15,
+        "g": 89,
+        "b": 93
+      }
+    }
+  },
+  {
+    "name": "Blade_of_the_Ruined_King_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 27,
+        "g": 67,
+        "b": 76
+      },
+      "topRight": {
+        "r": 74,
+        "g": 113,
+        "b": 126
+      },
+      "bottomLeft": {
+        "r": 47,
+        "g": 107,
+        "b": 112
+      },
+      "bottomRight": {
+        "r": 41,
+        "g": 98,
+        "b": 106
+      }
+    }
+  },
+  {
+    "name": "Blasting_Wand_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 66,
+        "g": 48,
+        "b": 34
+      },
+      "topRight": {
+        "r": 168,
+        "g": 133,
+        "b": 82
+      },
+      "bottomLeft": {
+        "r": 93,
+        "g": 57,
+        "b": 49
+      },
+      "bottomRight": {
+        "r": 48,
+        "g": 29,
+        "b": 28
+      }
+    }
+  },
+  {
+    "name": "Blighting_Jewel_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 81,
+        "g": 48,
+        "b": 150
+      },
+      "topRight": {
+        "r": 101,
+        "g": 74,
+        "b": 196
+      },
+      "bottomLeft": {
+        "r": 54,
+        "g": 25,
+        "b": 98
+      },
+      "bottomRight": {
+        "r": 72,
+        "g": 33,
+        "b": 122
+      }
+    }
+  },
+  {
+    "name": "Bloodsong_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 98,
+        "g": 47,
+        "b": 51
+      },
+      "topRight": {
+        "r": 73,
+        "g": 26,
+        "b": 40
+      },
+      "bottomLeft": {
+        "r": 161,
+        "g": 73,
+        "b": 89
+      },
+      "bottomRight": {
+        "r": 125,
+        "g": 54,
+        "b": 63
+      }
+    }
+  },
+  {
+    "name": "Bloodthirster_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 90,
+        "g": 28,
+        "b": 19
+      },
+      "topRight": {
+        "r": 134,
+        "g": 87,
+        "b": 95
+      },
+      "bottomLeft": {
+        "r": 108,
+        "g": 61,
+        "b": 63
+      },
+      "bottomRight": {
+        "r": 103,
+        "g": 56,
+        "b": 56
+      }
+    }
+  },
+  {
+    "name": "Boots_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 46,
+        "g": 34,
+        "b": 19
+      },
+      "topRight": {
+        "r": 61,
+        "g": 49,
+        "b": 26
+      },
+      "bottomLeft": {
+        "r": 58,
+        "g": 40,
+        "b": 26
+      },
+      "bottomRight": {
+        "r": 48,
+        "g": 31,
+        "b": 20
+      }
+    }
+  },
+  {
+    "name": "Boots_of_Swiftness_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 89,
+        "g": 102,
+        "b": 116
+      },
+      "topRight": {
+        "r": 150,
+        "g": 154,
+        "b": 158
+      },
+      "bottomLeft": {
+        "r": 100,
+        "g": 113,
+        "b": 129
+      },
+      "bottomRight": {
+        "r": 58,
+        "g": 81,
+        "b": 99
+      }
+    }
+  },
+  {
+    "name": "Bounty_of_Worlds_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 144,
+        "g": 133,
+        "b": 63
+      },
+      "topRight": {
+        "r": 141,
+        "g": 118,
+        "b": 52
+      },
+      "bottomLeft": {
+        "r": 81,
+        "g": 62,
+        "b": 29
+      },
+      "bottomRight": {
+        "r": 146,
+        "g": 119,
+        "b": 54
+      }
+    }
+  },
+  {
+    "name": "Bramble_Vest_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 101,
+        "g": 83,
+        "b": 66
+      },
+      "topRight": {
+        "r": 86,
+        "g": 65,
+        "b": 46
+      },
+      "bottomLeft": {
+        "r": 80,
+        "g": 69,
+        "b": 43
+      },
+      "bottomRight": {
+        "r": 91,
+        "g": 88,
+        "b": 44
+      }
+    }
+  },
+  {
+    "name": "Cappa_Juice_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 92,
+        "g": 63,
+        "b": 50
+      },
+      "topRight": {
+        "r": 100,
+        "g": 68,
+        "b": 48
+      },
+      "bottomLeft": {
+        "r": 72,
+        "g": 31,
+        "b": 14
+      },
+      "bottomRight": {
+        "r": 159,
+        "g": 73,
+        "b": 41
+      }
+    }
+  },
+  {
+    "name": "Catalyst_of_Aeons_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 90,
+        "g": 96,
+        "b": 87
+      },
+      "topRight": {
+        "r": 107,
+        "g": 113,
+        "b": 98
+      },
+      "bottomLeft": {
+        "r": 100,
+        "g": 110,
+        "b": 95
+      },
+      "bottomRight": {
+        "r": 85,
+        "g": 99,
+        "b": 78
+      }
+    }
+  },
+  {
+    "name": "Caulfield's_Warhammer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 113,
+        "g": 88,
+        "b": 73
+      },
+      "topRight": {
+        "r": 99,
+        "g": 69,
+        "b": 57
+      },
+      "bottomLeft": {
+        "r": 112,
+        "g": 75,
+        "b": 55
+      },
+      "bottomRight": {
+        "r": 108,
+        "g": 70,
+        "b": 48
+      }
+    }
+  },
+  {
+    "name": "Celestial_Opposition_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 95,
+        "g": 62,
+        "b": 36
+      },
+      "topRight": {
+        "r": 144,
+        "g": 127,
+        "b": 57
+      },
+      "bottomLeft": {
+        "r": 63,
+        "g": 30,
+        "b": 11
+      },
+      "bottomRight": {
+        "r": 79,
+        "g": 63,
+        "b": 38
+      }
+    }
+  },
+  {
+    "name": "Chain_Vest_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 59,
+        "g": 51,
+        "b": 51
+      },
+      "topRight": {
+        "r": 58,
+        "g": 49,
+        "b": 48
+      },
+      "bottomLeft": {
+        "r": 59,
+        "g": 112,
+        "b": 114
+      },
+      "bottomRight": {
+        "r": 65,
+        "g": 92,
+        "b": 86
+      }
+    }
+  },
+  {
+    "name": "Chempunk_Chainsword_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 105,
+        "g": 100,
+        "b": 98
+      },
+      "topRight": {
+        "r": 72,
+        "g": 83,
+        "b": 58
+      },
+      "bottomLeft": {
+        "r": 94,
+        "g": 111,
+        "b": 37
+      },
+      "bottomRight": {
+        "r": 93,
+        "g": 101,
+        "b": 43
+      }
+    }
+  },
+  {
+    "name": "Chemtech_Putrifier_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 101,
+        "g": 92,
+        "b": 55
+      },
+      "topRight": {
+        "r": 71,
+        "g": 80,
+        "b": 46
+      },
+      "bottomLeft": {
+        "r": 50,
+        "g": 57,
+        "b": 36
+      },
+      "bottomRight": {
+        "r": 77,
+        "g": 88,
+        "b": 30
+      }
+    }
+  },
+  {
+    "name": "Cloak_of_Agility_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 87,
+        "g": 70,
+        "b": 123
+      },
+      "topRight": {
+        "r": 69,
+        "g": 54,
+        "b": 92
+      },
+      "bottomLeft": {
+        "r": 86,
+        "g": 68,
+        "b": 115
+      },
+      "bottomRight": {
+        "r": 63,
+        "g": 50,
+        "b": 80
+      }
+    }
+  },
+  {
+    "name": "Cloak_of_Starry_Night_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 90,
+        "g": 69,
+        "b": 123
+      },
+      "topRight": {
+        "r": 79,
+        "g": 63,
+        "b": 117
+      },
+      "bottomLeft": {
+        "r": 62,
+        "g": 63,
+        "b": 114
+      },
+      "bottomRight": {
+        "r": 43,
+        "g": 50,
+        "b": 96
+      }
+    }
+  },
+  {
+    "name": "Cloth_Armor_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 59,
+        "g": 44,
+        "b": 39
+      },
+      "topRight": {
+        "r": 67,
+        "g": 53,
+        "b": 47
+      },
+      "bottomLeft": {
+        "r": 77,
+        "g": 65,
+        "b": 61
+      },
+      "bottomRight": {
+        "r": 74,
+        "g": 72,
+        "b": 68
+      }
+    }
+  },
+  {
+    "name": "Control_Ward_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 159,
+        "g": 50,
+        "b": 31
+      },
+      "topRight": {
+        "r": 152,
+        "g": 41,
+        "b": 27
+      },
+      "bottomLeft": {
+        "r": 102,
+        "g": 29,
+        "b": 29
+      },
+      "bottomRight": {
+        "r": 93,
+        "g": 18,
+        "b": 20
+      }
+    }
+  },
+  {
+    "name": "Cosmic_Drive_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 65,
+        "g": 74,
+        "b": 116
+      },
+      "topRight": {
+        "r": 75,
+        "g": 85,
+        "b": 122
+      },
+      "bottomLeft": {
+        "r": 55,
+        "g": 62,
+        "b": 109
+      },
+      "bottomRight": {
+        "r": 57,
+        "g": 60,
+        "b": 102
+      }
+    }
+  },
+  {
+    "name": "Crown_of_the_Shattered_Queen_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 94,
+        "g": 91,
+        "b": 76
+      },
+      "topRight": {
+        "r": 79,
+        "g": 75,
+        "b": 68
+      },
+      "bottomLeft": {
+        "r": 66,
+        "g": 55,
+        "b": 91
+      },
+      "bottomRight": {
+        "r": 59,
+        "g": 58,
+        "b": 85
+      }
+    }
+  },
+  {
+    "name": "Cryptbloom_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 86,
+        "g": 115,
+        "b": 173
+      },
+      "topRight": {
+        "r": 82,
+        "g": 111,
+        "b": 150
+      },
+      "bottomLeft": {
+        "r": 29,
+        "g": 84,
+        "b": 100
+      },
+      "bottomRight": {
+        "r": 35,
+        "g": 73,
+        "b": 77
+      }
+    }
+  },
+  {
+    "name": "Crystalline_Bracer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 115,
+        "g": 88,
+        "b": 38
+      },
+      "topRight": {
+        "r": 114,
+        "g": 85,
+        "b": 61
+      },
+      "bottomLeft": {
+        "r": 127,
+        "g": 101,
+        "b": 68
+      },
+      "bottomRight": {
+        "r": 83,
+        "g": 50,
+        "b": 32
+      }
+    }
+  },
+  {
+    "name": "Cull_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 71,
+        "g": 68,
+        "b": 75
+      },
+      "topRight": {
+        "r": 47,
+        "g": 49,
+        "b": 57
+      },
+      "bottomLeft": {
+        "r": 35,
+        "g": 39,
+        "b": 46
+      },
+      "bottomRight": {
+        "r": 33,
+        "g": 37,
+        "b": 42
+      }
+    }
+  },
+  {
+    "name": "Dagger_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 71,
+        "g": 114,
+        "b": 113
+      },
+      "topRight": {
+        "r": 20,
+        "g": 48,
+        "b": 49
+      },
+      "bottomLeft": {
+        "r": 14,
+        "g": 16,
+        "b": 16
+      },
+      "bottomRight": {
+        "r": 63,
+        "g": 86,
+        "b": 85
+      }
+    }
+  },
+  {
+    "name": "Darksteel_Talons_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 135,
+        "g": 69,
+        "b": 81
+      },
+      "topRight": {
+        "r": 90,
+        "g": 43,
+        "b": 59
+      },
+      "bottomLeft": {
+        "r": 96,
+        "g": 42,
+        "b": 59
+      },
+      "bottomRight": {
+        "r": 54,
+        "g": 35,
+        "b": 52
+      }
+    }
+  },
+  {
+    "name": "Dark_Seal_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 110,
+        "g": 69,
+        "b": 72
+      },
+      "topRight": {
+        "r": 105,
+        "g": 80,
+        "b": 99
+      },
+      "bottomLeft": {
+        "r": 96,
+        "g": 70,
+        "b": 104
+      },
+      "bottomRight": {
+        "r": 77,
+        "g": 54,
+        "b": 117
+      }
+    }
+  },
+  {
+    "name": "Dawncore_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 59,
+        "g": 72,
+        "b": 119
+      },
+      "topRight": {
+        "r": 78,
+        "g": 103,
+        "b": 160
+      },
+      "bottomLeft": {
+        "r": 70,
+        "g": 88,
+        "b": 141
+      },
+      "bottomRight": {
+        "r": 67,
+        "g": 99,
+        "b": 148
+      }
+    }
+  },
+  {
+    "name": "Dead_Man's_Plate_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 85,
+        "g": 63,
+        "b": 45
+      },
+      "topRight": {
+        "r": 144,
+        "g": 100,
+        "b": 72
+      },
+      "bottomLeft": {
+        "r": 40,
+        "g": 28,
+        "b": 20
+      },
+      "bottomRight": {
+        "r": 104,
+        "g": 69,
+        "b": 40
+      }
+    }
+  },
+  {
+    "name": "Death's_Dance_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 30,
+        "g": 42,
+        "b": 10
+      },
+      "topRight": {
+        "r": 89,
+        "g": 84,
+        "b": 39
+      },
+      "bottomLeft": {
+        "r": 173,
+        "g": 97,
+        "b": 62
+      },
+      "bottomRight": {
+        "r": 152,
+        "g": 139,
+        "b": 43
+      }
+    }
+  },
+  {
+    "name": "Death's_Daughter_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 180,
+        "g": 119,
+        "b": 61
+      },
+      "topRight": {
+        "r": 163,
+        "g": 95,
+        "b": 54
+      },
+      "bottomLeft": {
+        "r": 133,
+        "g": 73,
+        "b": 36
+      },
+      "bottomRight": {
+        "r": 136,
+        "g": 103,
+        "b": 62
+      }
+    }
+  },
+  {
+    "name": "Decapitator_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 148,
+        "g": 151,
+        "b": 117
+      },
+      "topRight": {
+        "r": 154,
+        "g": 128,
+        "b": 91
+      },
+      "bottomLeft": {
+        "r": 141,
+        "g": 123,
+        "b": 88
+      },
+      "bottomRight": {
+        "r": 183,
+        "g": 161,
+        "b": 110
+      }
+    }
+  },
+  {
+    "name": "Demonic_Embrace_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 107,
+        "g": 53,
+        "b": 64
+      },
+      "topRight": {
+        "r": 130,
+        "g": 71,
+        "b": 100
+      },
+      "bottomLeft": {
+        "r": 89,
+        "g": 36,
+        "b": 76
+      },
+      "bottomRight": {
+        "r": 119,
+        "g": 65,
+        "b": 117
+      }
+    }
+  },
+  {
+    "name": "Demon_King's_Crown_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 63,
+        "g": 31,
+        "b": 51
+      },
+      "topRight": {
+        "r": 48,
+        "g": 27,
+        "b": 37
+      },
+      "bottomLeft": {
+        "r": 104,
+        "g": 38,
+        "b": 54
+      },
+      "bottomRight": {
+        "r": 79,
+        "g": 25,
+        "b": 35
+      }
+    }
+  },
+  {
+    "name": "Detonation_Orb_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 153,
+        "g": 89,
+        "b": 41
+      },
+      "topRight": {
+        "r": 111,
+        "g": 56,
+        "b": 28
+      },
+      "bottomLeft": {
+        "r": 162,
+        "g": 96,
+        "b": 45
+      },
+      "bottomRight": {
+        "r": 173,
+        "g": 95,
+        "b": 42
+      }
+    }
+  },
+  {
+    "name": "Diamond-Tipped_Spear_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 66,
+        "g": 45,
+        "b": 115
+      },
+      "topRight": {
+        "r": 81,
+        "g": 63,
+        "b": 115
+      },
+      "bottomLeft": {
+        "r": 128,
+        "g": 98,
+        "b": 192
+      },
+      "bottomRight": {
+        "r": 82,
+        "g": 51,
+        "b": 129
+      }
+    }
+  },
+  {
+    "name": "Divine_Sunderer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 60,
+        "g": 156,
+        "b": 141
+      },
+      "topRight": {
+        "r": 129,
+        "g": 161,
+        "b": 100
+      },
+      "bottomLeft": {
+        "r": 55,
+        "g": 112,
+        "b": 106
+      },
+      "bottomRight": {
+        "r": 62,
+        "g": 120,
+        "b": 83
+      }
+    }
+  },
+  {
+    "name": "Doran's_Blade_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 12,
+        "g": 7,
+        "b": 12
+      },
+      "topRight": {
+        "r": 69,
+        "g": 55,
+        "b": 69
+      },
+      "bottomLeft": {
+        "r": 67,
+        "g": 32,
+        "b": 50
+      },
+      "bottomRight": {
+        "r": 37,
+        "g": 7,
+        "b": 28
+      }
+    }
+  },
+  {
+    "name": "Doran's_Ring_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 44,
+        "g": 66,
+        "b": 101
+      },
+      "topRight": {
+        "r": 37,
+        "g": 53,
+        "b": 82
+      },
+      "bottomLeft": {
+        "r": 33,
+        "g": 69,
+        "b": 124
+      },
+      "bottomRight": {
+        "r": 30,
+        "g": 51,
+        "b": 88
+      }
+    }
+  },
+  {
+    "name": "Doran's_Shield_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 68,
+        "g": 50,
+        "b": 33
+      },
+      "topRight": {
+        "r": 107,
+        "g": 81,
+        "b": 51
+      },
+      "bottomLeft": {
+        "r": 61,
+        "g": 43,
+        "b": 24
+      },
+      "bottomRight": {
+        "r": 94,
+        "g": 69,
+        "b": 30
+      }
+    }
+  },
+  {
+    "name": "Dragonheart_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 95,
+        "g": 24,
+        "b": 39
+      },
+      "topRight": {
+        "r": 97,
+        "g": 31,
+        "b": 45
+      },
+      "bottomLeft": {
+        "r": 97,
+        "g": 37,
+        "b": 58
+      },
+      "bottomRight": {
+        "r": 91,
+        "g": 26,
+        "b": 45
+      }
+    }
+  },
+  {
+    "name": "Dream_Maker_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 106,
+        "g": 90,
+        "b": 94
+      },
+      "topRight": {
+        "r": 83,
+        "g": 80,
+        "b": 90
+      },
+      "bottomLeft": {
+        "r": 77,
+        "g": 95,
+        "b": 113
+      },
+      "bottomRight": {
+        "r": 101,
+        "g": 124,
+        "b": 131
+      }
+    }
+  },
+  {
+    "name": "Duskblade_of_Draktharr_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 99,
+        "g": 10,
+        "b": 3
+      },
+      "topRight": {
+        "r": 148,
+        "g": 53,
+        "b": 46
+      },
+      "bottomLeft": {
+        "r": 130,
+        "g": 44,
+        "b": 52
+      },
+      "bottomRight": {
+        "r": 99,
+        "g": 48,
+        "b": 46
+      }
+    }
+  },
+  {
+    "name": "Echoes_of_Helia_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 38,
+        "g": 116,
+        "b": 96
+      },
+      "topRight": {
+        "r": 25,
+        "g": 116,
+        "b": 92
+      },
+      "bottomLeft": {
+        "r": 15,
+        "g": 76,
+        "b": 71
+      },
+      "bottomRight": {
+        "r": 10,
+        "g": 73,
+        "b": 71
+      }
+    }
+  },
+  {
+    "name": "Eclipse_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 61,
+        "g": 28,
+        "b": 57
+      },
+      "topRight": {
+        "r": 97,
+        "g": 107,
+        "b": 119
+      },
+      "bottomLeft": {
+        "r": 74,
+        "g": 66,
+        "b": 92
+      },
+      "bottomRight": {
+        "r": 60,
+        "g": 23,
+        "b": 44
+      }
+    }
+  },
+  {
+    "name": "Edge_of_Night_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 73,
+        "g": 30,
+        "b": 121
+      },
+      "topRight": {
+        "r": 91,
+        "g": 46,
+        "b": 152
+      },
+      "bottomLeft": {
+        "r": 64,
+        "g": 36,
+        "b": 128
+      },
+      "bottomRight": {
+        "r": 63,
+        "g": 41,
+        "b": 114
+      }
+    }
+  },
+  {
+    "name": "Eleisa's_Miracle_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 81,
+        "g": 48,
+        "b": 125
+      },
+      "topRight": {
+        "r": 107,
+        "g": 76,
+        "b": 124
+      },
+      "bottomLeft": {
+        "r": 75,
+        "g": 38,
+        "b": 93
+      },
+      "bottomRight": {
+        "r": 82,
+        "g": 53,
+        "b": 125
+      }
+    }
+  },
+  {
+    "name": "Elixir_of_Avarice_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 8,
+        "g": 7,
+        "b": 7
+      },
+      "topRight": {
+        "r": 42,
+        "g": 32,
+        "b": 32
+      },
+      "bottomLeft": {
+        "r": 78,
+        "g": 48,
+        "b": 26
+      },
+      "bottomRight": {
+        "r": 35,
+        "g": 23,
+        "b": 10
+      }
+    }
+  },
+  {
+    "name": "Elixir_of_Force_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 8,
+        "g": 6,
+        "b": 8
+      },
+      "topRight": {
+        "r": 42,
+        "g": 30,
+        "b": 33
+      },
+      "bottomLeft": {
+        "r": 68,
+        "g": 19,
+        "b": 41
+      },
+      "bottomRight": {
+        "r": 32,
+        "g": 7,
+        "b": 18
+      }
+    }
+  },
+  {
+    "name": "Elixir_of_Iron_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 102,
+        "g": 70,
+        "b": 32
+      },
+      "topRight": {
+        "r": 149,
+        "g": 116,
+        "b": 63
+      },
+      "bottomLeft": {
+        "r": 134,
+        "g": 102,
+        "b": 54
+      },
+      "bottomRight": {
+        "r": 86,
+        "g": 62,
+        "b": 37
+      }
+    }
+  },
+  {
+    "name": "Elixir_of_Sorcery_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 125,
+        "g": 81,
+        "b": 157
+      },
+      "topRight": {
+        "r": 128,
+        "g": 72,
+        "b": 116
+      },
+      "bottomLeft": {
+        "r": 107,
+        "g": 79,
+        "b": 136
+      },
+      "bottomRight": {
+        "r": 121,
+        "g": 71,
+        "b": 149
+      }
+    }
+  },
+  {
+    "name": "Elixir_of_Wrath_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 85,
+        "g": 42,
+        "b": 50
+      },
+      "topRight": {
+        "r": 77,
+        "g": 32,
+        "b": 37
+      },
+      "bottomLeft": {
+        "r": 125,
+        "g": 45,
+        "b": 60
+      },
+      "bottomRight": {
+        "r": 99,
+        "g": 37,
+        "b": 33
+      }
+    }
+  },
+  {
+    "name": "Empyrean_Promise_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 100,
+        "g": 72,
+        "b": 82
+      },
+      "topRight": {
+        "r": 99,
+        "g": 69,
+        "b": 60
+      },
+      "bottomLeft": {
+        "r": 83,
+        "g": 63,
+        "b": 76
+      },
+      "bottomRight": {
+        "r": 57,
+        "g": 41,
+        "b": 44
+      }
+    }
+  },
+  {
+    "name": "Essence_Reaver_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 88,
+        "g": 118,
+        "b": 130
+      },
+      "topRight": {
+        "r": 26,
+        "g": 75,
+        "b": 100
+      },
+      "bottomLeft": {
+        "r": 30,
+        "g": 47,
+        "b": 59
+      },
+      "bottomRight": {
+        "r": 18,
+        "g": 63,
+        "b": 92
+      }
+    }
+  },
+  {
+    "name": "Everfrost_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 46,
+        "g": 94,
+        "b": 154
+      },
+      "topRight": {
+        "r": 43,
+        "g": 91,
+        "b": 159
+      },
+      "bottomLeft": {
+        "r": 22,
+        "g": 30,
+        "b": 130
+      },
+      "bottomRight": {
+        "r": 22,
+        "g": 29,
+        "b": 114
+      }
+    }
+  },
+  {
+    "name": "Executioner's_Calling_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 89,
+        "g": 85,
+        "b": 60
+      },
+      "topRight": {
+        "r": 77,
+        "g": 78,
+        "b": 61
+      },
+      "bottomLeft": {
+        "r": 63,
+        "g": 75,
+        "b": 35
+      },
+      "bottomRight": {
+        "r": 53,
+        "g": 53,
+        "b": 33
+      }
+    }
+  },
+  {
+    "name": "Experimental_Hexplate_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 78,
+        "g": 86,
+        "b": 94
+      },
+      "topRight": {
+        "r": 60,
+        "g": 59,
+        "b": 80
+      },
+      "bottomLeft": {
+        "r": 81,
+        "g": 65,
+        "b": 47
+      },
+      "bottomRight": {
+        "r": 85,
+        "g": 72,
+        "b": 51
+      }
+    }
+  },
+  {
+    "name": "Eye_of_the_Herald_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 105,
+        "g": 35,
+        "b": 110
+      },
+      "topRight": {
+        "r": 111,
+        "g": 52,
+        "b": 116
+      },
+      "bottomLeft": {
+        "r": 110,
+        "g": 49,
+        "b": 111
+      },
+      "bottomRight": {
+        "r": 96,
+        "g": 41,
+        "b": 106
+      }
+    }
+  },
+  {
+    "name": "Faerie_Charm_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 59,
+        "g": 47,
+        "b": 36
+      },
+      "topRight": {
+        "r": 32,
+        "g": 29,
+        "b": 35
+      },
+      "bottomLeft": {
+        "r": 83,
+        "g": 76,
+        "b": 61
+      },
+      "bottomRight": {
+        "r": 85,
+        "g": 78,
+        "b": 64
+      }
+    }
+  },
+  {
+    "name": "Farsight_Alteration_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 61,
+        "g": 130,
+        "b": 150
+      },
+      "topRight": {
+        "r": 52,
+        "g": 128,
+        "b": 166
+      },
+      "bottomLeft": {
+        "r": 24,
+        "g": 80,
+        "b": 87
+      },
+      "bottomRight": {
+        "r": 26,
+        "g": 86,
+        "b": 118
+      }
+    }
+  },
+  {
+    "name": "Fated_Ashes_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 124,
+        "g": 90,
+        "b": 97
+      },
+      "topRight": {
+        "r": 114,
+        "g": 83,
+        "b": 106
+      },
+      "bottomLeft": {
+        "r": 64,
+        "g": 68,
+        "b": 99
+      },
+      "bottomRight": {
+        "r": 119,
+        "g": 99,
+        "b": 116
+      }
+    }
+  },
+  {
+    "name": "Fiendish_Codex_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 91,
+        "g": 68,
+        "b": 94
+      },
+      "topRight": {
+        "r": 53,
+        "g": 54,
+        "b": 90
+      },
+      "bottomLeft": {
+        "r": 94,
+        "g": 69,
+        "b": 87
+      },
+      "bottomRight": {
+        "r": 77,
+        "g": 60,
+        "b": 90
+      }
+    }
+  },
+  {
+    "name": "Fimbulwinter_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 70,
+        "g": 83,
+        "b": 101
+      },
+      "topRight": {
+        "r": 57,
+        "g": 71,
+        "b": 92
+      },
+      "bottomLeft": {
+        "r": 51,
+        "g": 107,
+        "b": 138
+      },
+      "bottomRight": {
+        "r": 59,
+        "g": 94,
+        "b": 131
+      }
+    }
+  },
+  {
+    "name": "Fire_at_Will_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 165,
+        "g": 98,
+        "b": 57
+      },
+      "topRight": {
+        "r": 149,
+        "g": 80,
+        "b": 42
+      },
+      "bottomLeft": {
+        "r": 178,
+        "g": 110,
+        "b": 64
+      },
+      "bottomRight": {
+        "r": 155,
+        "g": 79,
+        "b": 49
+      }
+    }
+  },
+  {
+    "name": "Flesheater_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 86,
+        "g": 18,
+        "b": 34
+      },
+      "topRight": {
+        "r": 78,
+        "g": 47,
+        "b": 61
+      },
+      "bottomLeft": {
+        "r": 103,
+        "g": 45,
+        "b": 60
+      },
+      "bottomRight": {
+        "r": 138,
+        "g": 68,
+        "b": 80
+      }
+    }
+  },
+  {
+    "name": "Forbidden_Idol_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 130,
+        "g": 68,
+        "b": 139
+      },
+      "topRight": {
+        "r": 63,
+        "g": 76,
+        "b": 99
+      },
+      "bottomLeft": {
+        "r": 82,
+        "g": 64,
+        "b": 105
+      },
+      "bottomRight": {
+        "r": 94,
+        "g": 106,
+        "b": 136
+      }
+    }
+  },
+  {
+    "name": "Force_of_Entropy_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 66,
+        "g": 83,
+        "b": 106
+      },
+      "topRight": {
+        "r": 78,
+        "g": 91,
+        "b": 111
+      },
+      "bottomLeft": {
+        "r": 47,
+        "g": 48,
+        "b": 62
+      },
+      "bottomRight": {
+        "r": 44,
+        "g": 64,
+        "b": 83
+      }
+    }
+  },
+  {
+    "name": "Force_of_Nature_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 45,
+        "g": 84,
+        "b": 94
+      },
+      "topRight": {
+        "r": 63,
+        "g": 103,
+        "b": 117
+      },
+      "bottomLeft": {
+        "r": 33,
+        "g": 64,
+        "b": 81
+      },
+      "bottomRight": {
+        "r": 49,
+        "g": 77,
+        "b": 84
+      }
+    }
+  },
+  {
+    "name": "Frozen_Heart_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 82,
+        "g": 142,
+        "b": 184
+      },
+      "topRight": {
+        "r": 65,
+        "g": 131,
+        "b": 184
+      },
+      "bottomLeft": {
+        "r": 100,
+        "g": 145,
+        "b": 178
+      },
+      "bottomRight": {
+        "r": 68,
+        "g": 116,
+        "b": 150
+      }
+    }
+  },
+  {
+    "name": "Fulmination_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 79,
+        "g": 103,
+        "b": 149
+      },
+      "topRight": {
+        "r": 114,
+        "g": 146,
+        "b": 179
+      },
+      "bottomLeft": {
+        "r": 65,
+        "g": 66,
+        "b": 124
+      },
+      "bottomRight": {
+        "r": 90,
+        "g": 93,
+        "b": 179
+      }
+    }
+  },
+  {
+    "name": "Galeforce_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 83,
+        "g": 115,
+        "b": 120
+      },
+      "topRight": {
+        "r": 46,
+        "g": 79,
+        "b": 83
+      },
+      "bottomLeft": {
+        "r": 75,
+        "g": 88,
+        "b": 96
+      },
+      "bottomRight": {
+        "r": 35,
+        "g": 66,
+        "b": 82
+      }
+    }
+  },
+  {
+    "name": "Gargoyle_Stoneplate_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 142,
+        "g": 145,
+        "b": 119
+      },
+      "topRight": {
+        "r": 126,
+        "g": 128,
+        "b": 101
+      },
+      "bottomLeft": {
+        "r": 111,
+        "g": 108,
+        "b": 82
+      },
+      "bottomRight": {
+        "r": 104,
+        "g": 98,
+        "b": 67
+      }
+    }
+  },
+  {
+    "name": "Giant's_Belt_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 46,
+        "g": 30,
+        "b": 24
+      },
+      "topRight": {
+        "r": 82,
+        "g": 67,
+        "b": 56
+      },
+      "bottomLeft": {
+        "r": 110,
+        "g": 95,
+        "b": 83
+      },
+      "bottomRight": {
+        "r": 127,
+        "g": 109,
+        "b": 93
+      }
+    }
+  },
+  {
+    "name": "Glacial_Buckler_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 58,
+        "g": 99,
+        "b": 123
+      },
+      "topRight": {
+        "r": 58,
+        "g": 106,
+        "b": 127
+      },
+      "bottomLeft": {
+        "r": 50,
+        "g": 102,
+        "b": 126
+      },
+      "bottomRight": {
+        "r": 65,
+        "g": 136,
+        "b": 155
+      }
+    }
+  },
+  {
+    "name": "Glowing_Mote_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 45,
+        "g": 31,
+        "b": 48
+      },
+      "topRight": {
+        "r": 71,
+        "g": 58,
+        "b": 72
+      },
+      "bottomLeft": {
+        "r": 132,
+        "g": 87,
+        "b": 129
+      },
+      "bottomRight": {
+        "r": 53,
+        "g": 31,
+        "b": 55
+      }
+    }
+  },
+  {
+    "name": "Guardian's_Amulet_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 111,
+        "g": 97,
+        "b": 84
+      },
+      "topRight": {
+        "r": 71,
+        "g": 103,
+        "b": 131
+      },
+      "bottomLeft": {
+        "r": 56,
+        "g": 77,
+        "b": 101
+      },
+      "bottomRight": {
+        "r": 81,
+        "g": 104,
+        "b": 133
+      }
+    }
+  },
+  {
+    "name": "Guardian's_Blade_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 170,
+        "g": 121,
+        "b": 127
+      },
+      "topRight": {
+        "r": 122,
+        "g": 53,
+        "b": 40
+      },
+      "bottomLeft": {
+        "r": 125,
+        "g": 64,
+        "b": 50
+      },
+      "bottomRight": {
+        "r": 94,
+        "g": 47,
+        "b": 42
+      }
+    }
+  },
+  {
+    "name": "Guardian's_Hammer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 25,
+        "g": 69,
+        "b": 80
+      },
+      "topRight": {
+        "r": 24,
+        "g": 61,
+        "b": 72
+      },
+      "bottomLeft": {
+        "r": 49,
+        "g": 116,
+        "b": 147
+      },
+      "bottomRight": {
+        "r": 22,
+        "g": 68,
+        "b": 81
+      }
+    }
+  },
+  {
+    "name": "Guardian's_Horn_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 70,
+        "g": 51,
+        "b": 20
+      },
+      "topRight": {
+        "r": 83,
+        "g": 60,
+        "b": 28
+      },
+      "bottomLeft": {
+        "r": 86,
+        "g": 60,
+        "b": 24
+      },
+      "bottomRight": {
+        "r": 93,
+        "g": 70,
+        "b": 36
+      }
+    }
+  },
+  {
+    "name": "Guardian's_Orb_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 28,
+        "g": 64,
+        "b": 145
+      },
+      "topRight": {
+        "r": 32,
+        "g": 89,
+        "b": 150
+      },
+      "bottomLeft": {
+        "r": 31,
+        "g": 75,
+        "b": 150
+      },
+      "bottomRight": {
+        "r": 36,
+        "g": 81,
+        "b": 148
+      }
+    }
+  },
+  {
+    "name": "Guardian_Angel_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 159,
+        "g": 131,
+        "b": 101
+      },
+      "topRight": {
+        "r": 188,
+        "g": 151,
+        "b": 129
+      },
+      "bottomLeft": {
+        "r": 109,
+        "g": 76,
+        "b": 49
+      },
+      "bottomRight": {
+        "r": 120,
+        "g": 89,
+        "b": 62
+      }
+    }
+  },
+  {
+    "name": "Guinsoo's_Rageblade_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 58,
+        "g": 14,
+        "b": 9
+      },
+      "topRight": {
+        "r": 143,
+        "g": 75,
+        "b": 40
+      },
+      "bottomLeft": {
+        "r": 143,
+        "g": 63,
+        "b": 25
+      },
+      "bottomRight": {
+        "r": 103,
+        "g": 39,
+        "b": 20
+      }
+    }
+  },
+  {
+    "name": "Gusto_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 113,
+        "g": 50,
+        "b": 104
+      },
+      "topRight": {
+        "r": 140,
+        "g": 112,
+        "b": 79
+      },
+      "bottomLeft": {
+        "r": 80,
+        "g": 47,
+        "b": 51
+      },
+      "bottomRight": {
+        "r": 62,
+        "g": 35,
+        "b": 46
+      }
+    }
+  },
+  {
+    "name": "Gustwalker_Hatchling_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 22,
+        "g": 67,
+        "b": 108
+      },
+      "topRight": {
+        "r": 15,
+        "g": 73,
+        "b": 128
+      },
+      "bottomLeft": {
+        "r": 31,
+        "g": 93,
+        "b": 120
+      },
+      "bottomRight": {
+        "r": 23,
+        "g": 109,
+        "b": 138
+      }
+    }
+  },
+  {
+    "name": "Hamstringer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 56,
+        "g": 51,
+        "b": 88
+      },
+      "topRight": {
+        "r": 54,
+        "g": 3,
+        "b": 48
+      },
+      "bottomLeft": {
+        "r": 69,
+        "g": 26,
+        "b": 81
+      },
+      "bottomRight": {
+        "r": 116,
+        "g": 37,
+        "b": 119
+      }
+    }
+  },
+  {
+    "name": "Haunting_Guise_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 91,
+        "g": 93,
+        "b": 109
+      },
+      "topRight": {
+        "r": 84,
+        "g": 127,
+        "b": 125
+      },
+      "bottomLeft": {
+        "r": 55,
+        "g": 83,
+        "b": 89
+      },
+      "bottomRight": {
+        "r": 64,
+        "g": 83,
+        "b": 86
+      }
+    }
+  },
+  {
+    "name": "Health_Potion_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 63,
+        "g": 28,
+        "b": 29
+      },
+      "topRight": {
+        "r": 48,
+        "g": 21,
+        "b": 20
+      },
+      "bottomLeft": {
+        "r": 64,
+        "g": 12,
+        "b": 26
+      },
+      "bottomRight": {
+        "r": 112,
+        "g": 41,
+        "b": 49
+      }
+    }
+  },
+  {
+    "name": "Hearthbound_Axe_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 59,
+        "g": 107,
+        "b": 156
+      },
+      "topRight": {
+        "r": 34,
+        "g": 59,
+        "b": 112
+      },
+      "bottomLeft": {
+        "r": 34,
+        "g": 60,
+        "b": 104
+      },
+      "bottomRight": {
+        "r": 30,
+        "g": 50,
+        "b": 115
+      }
+    }
+  },
+  {
+    "name": "Heartsteel_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 140,
+        "g": 101,
+        "b": 83
+      },
+      "topRight": {
+        "r": 166,
+        "g": 121,
+        "b": 79
+      },
+      "bottomLeft": {
+        "r": 109,
+        "g": 73,
+        "b": 55
+      },
+      "bottomRight": {
+        "r": 121,
+        "g": 100,
+        "b": 76
+      }
+    }
+  },
+  {
+    "name": "Hellfire_Hatchet_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 143,
+        "g": 65,
+        "b": 21
+      },
+      "topRight": {
+        "r": 120,
+        "g": 84,
+        "b": 40
+      },
+      "bottomLeft": {
+        "r": 90,
+        "g": 44,
+        "b": 26
+      },
+      "bottomRight": {
+        "r": 88,
+        "g": 54,
+        "b": 33
+      }
+    }
+  },
+  {
+    "name": "Hemomancer's_Helm_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 63,
+        "g": 42,
+        "b": 58
+      },
+      "topRight": {
+        "r": 48,
+        "g": 49,
+        "b": 66
+      },
+      "bottomLeft": {
+        "r": 49,
+        "g": 45,
+        "b": 63
+      },
+      "bottomRight": {
+        "r": 53,
+        "g": 32,
+        "b": 58
+      }
+    }
+  },
+  {
+    "name": "Hexbolt_Companion_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 60,
+        "g": 82,
+        "b": 147
+      },
+      "topRight": {
+        "r": 84,
+        "g": 91,
+        "b": 138
+      },
+      "bottomLeft": {
+        "r": 42,
+        "g": 54,
+        "b": 116
+      },
+      "bottomRight": {
+        "r": 62,
+        "g": 70,
+        "b": 148
+      }
+    }
+  },
+  {
+    "name": "Hexdrinker_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 38,
+        "g": 8,
+        "b": 54
+      },
+      "topRight": {
+        "r": 128,
+        "g": 80,
+        "b": 70
+      },
+      "bottomLeft": {
+        "r": 124,
+        "g": 61,
+        "b": 93
+      },
+      "bottomRight": {
+        "r": 65,
+        "g": 8,
+        "b": 90
+      }
+    }
+  },
+  {
+    "name": "Hextech_Alternator_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 67,
+        "g": 52,
+        "b": 37
+      },
+      "topRight": {
+        "r": 96,
+        "g": 88,
+        "b": 70
+      },
+      "bottomLeft": {
+        "r": 49,
+        "g": 52,
+        "b": 48
+      },
+      "bottomRight": {
+        "r": 54,
+        "g": 57,
+        "b": 58
+      }
+    }
+  },
+  {
+    "name": "Hextech_Gunblade_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 54,
+        "g": 148,
+        "b": 181
+      },
+      "topRight": {
+        "r": 74,
+        "g": 159,
+        "b": 164
+      },
+      "bottomLeft": {
+        "r": 89,
+        "g": 152,
+        "b": 158
+      },
+      "bottomRight": {
+        "r": 61,
+        "g": 156,
+        "b": 181
+      }
+    }
+  },
+  {
+    "name": "Hextech_Rocketbelt_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 157,
+        "g": 117,
+        "b": 80
+      },
+      "topRight": {
+        "r": 142,
+        "g": 103,
+        "b": 67
+      },
+      "bottomLeft": {
+        "r": 114,
+        "g": 130,
+        "b": 132
+      },
+      "bottomRight": {
+        "r": 107,
+        "g": 121,
+        "b": 130
+      }
+    }
+  },
+  {
+    "name": "Hollow_Radiance_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 91,
+        "g": 77,
+        "b": 137
+      },
+      "topRight": {
+        "r": 86,
+        "g": 53,
+        "b": 106
+      },
+      "bottomLeft": {
+        "r": 115,
+        "g": 115,
+        "b": 188
+      },
+      "bottomRight": {
+        "r": 112,
+        "g": 120,
+        "b": 209
+      }
+    }
+  },
+  {
+    "name": "Horizon_Focus_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 43,
+        "g": 71,
+        "b": 105
+      },
+      "topRight": {
+        "r": 48,
+        "g": 61,
+        "b": 94
+      },
+      "bottomLeft": {
+        "r": 37,
+        "g": 72,
+        "b": 116
+      },
+      "bottomRight": {
+        "r": 74,
+        "g": 88,
+        "b": 104
+      }
+    }
+  },
+  {
+    "name": "Hubris_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 111,
+        "g": 88,
+        "b": 49
+      },
+      "topRight": {
+        "r": 73,
+        "g": 55,
+        "b": 42
+      },
+      "bottomLeft": {
+        "r": 72,
+        "g": 61,
+        "b": 66
+      },
+      "bottomRight": {
+        "r": 80,
+        "g": 76,
+        "b": 92
+      }
+    }
+  },
+  {
+    "name": "Hullbreaker_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 75,
+        "g": 95,
+        "b": 90
+      },
+      "topRight": {
+        "r": 108,
+        "g": 95,
+        "b": 83
+      },
+      "bottomLeft": {
+        "r": 69,
+        "g": 93,
+        "b": 104
+      },
+      "bottomRight": {
+        "r": 60,
+        "g": 69,
+        "b": 69
+      }
+    }
+  },
+  {
+    "name": "Iceborn_Gauntlet_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 49,
+        "g": 107,
+        "b": 153
+      },
+      "topRight": {
+        "r": 60,
+        "g": 116,
+        "b": 166
+      },
+      "bottomLeft": {
+        "r": 28,
+        "g": 77,
+        "b": 133
+      },
+      "bottomRight": {
+        "r": 51,
+        "g": 66,
+        "b": 141
+      }
+    }
+  },
+  {
+    "name": "Immortal_Shieldbow_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 121,
+        "g": 69,
+        "b": 83
+      },
+      "topRight": {
+        "r": 88,
+        "g": 52,
+        "b": 70
+      },
+      "bottomLeft": {
+        "r": 106,
+        "g": 44,
+        "b": 62
+      },
+      "bottomRight": {
+        "r": 112,
+        "g": 78,
+        "b": 94
+      }
+    }
+  },
+  {
+    "name": "Imperial_Mandate_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 114,
+        "g": 44,
+        "b": 73
+      },
+      "topRight": {
+        "r": 121,
+        "g": 43,
+        "b": 91
+      },
+      "bottomLeft": {
+        "r": 186,
+        "g": 118,
+        "b": 116
+      },
+      "bottomRight": {
+        "r": 134,
+        "g": 52,
+        "b": 97
+      }
+    }
+  },
+  {
+    "name": "Infinity_Edge_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 109,
+        "g": 104,
+        "b": 74
+      },
+      "topRight": {
+        "r": 115,
+        "g": 95,
+        "b": 45
+      },
+      "bottomLeft": {
+        "r": 126,
+        "g": 101,
+        "b": 40
+      },
+      "bottomRight": {
+        "r": 129,
+        "g": 110,
+        "b": 67
+      }
+    }
+  },
+  {
+    "name": "Ionian_Boots_of_Lucidity_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 49,
+        "g": 69,
+        "b": 66
+      },
+      "topRight": {
+        "r": 90,
+        "g": 71,
+        "b": 73
+      },
+      "bottomLeft": {
+        "r": 66,
+        "g": 86,
+        "b": 73
+      },
+      "bottomRight": {
+        "r": 63,
+        "g": 97,
+        "b": 86
+      }
+    }
+  },
+  {
+    "name": "Jak'Sho,_The_Protean_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 65,
+        "g": 25,
+        "b": 102
+      },
+      "topRight": {
+        "r": 91,
+        "g": 50,
+        "b": 111
+      },
+      "bottomLeft": {
+        "r": 82,
+        "g": 16,
+        "b": 133
+      },
+      "bottomRight": {
+        "r": 85,
+        "g": 25,
+        "b": 113
+      }
+    }
+  },
+  {
+    "name": "Juice_of_Haste_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 38,
+        "g": 32,
+        "b": 18
+      },
+      "topRight": {
+        "r": 88,
+        "g": 101,
+        "b": 93
+      },
+      "bottomLeft": {
+        "r": 95,
+        "g": 99,
+        "b": 72
+      },
+      "bottomRight": {
+        "r": 137,
+        "g": 145,
+        "b": 108
+      }
+    }
+  },
+  {
+    "name": "Juice_of_Power_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 115,
+        "g": 101,
+        "b": 184
+      },
+      "topRight": {
+        "r": 70,
+        "g": 53,
+        "b": 110
+      },
+      "bottomLeft": {
+        "r": 106,
+        "g": 65,
+        "b": 133
+      },
+      "bottomRight": {
+        "r": 61,
+        "g": 44,
+        "b": 84
+      }
+    }
+  },
+  {
+    "name": "Juice_of_Vitality_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 20,
+        "g": 67,
+        "b": 33
+      },
+      "topRight": {
+        "r": 25,
+        "g": 87,
+        "b": 44
+      },
+      "bottomLeft": {
+        "r": 38,
+        "g": 95,
+        "b": 45
+      },
+      "bottomRight": {
+        "r": 45,
+        "g": 128,
+        "b": 68
+      }
+    }
+  },
+  {
+    "name": "Kaenic_Rookern_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 57,
+        "g": 76,
+        "b": 73
+      },
+      "topRight": {
+        "r": 49,
+        "g": 92,
+        "b": 84
+      },
+      "bottomLeft": {
+        "r": 52,
+        "g": 84,
+        "b": 68
+      },
+      "bottomRight": {
+        "r": 63,
+        "g": 46,
+        "b": 29
+      }
+    }
+  },
+  {
+    "name": "Kindlegem_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 158,
+        "g": 78,
+        "b": 56
+      },
+      "topRight": {
+        "r": 147,
+        "g": 87,
+        "b": 49
+      },
+      "bottomLeft": {
+        "r": 196,
+        "g": 73,
+        "b": 46
+      },
+      "bottomRight": {
+        "r": 152,
+        "g": 42,
+        "b": 26
+      }
+    }
+  },
+  {
+    "name": "Kinkou_Jitte_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 107,
+        "g": 92,
+        "b": 76
+      },
+      "topRight": {
+        "r": 96,
+        "g": 77,
+        "b": 45
+      },
+      "bottomLeft": {
+        "r": 111,
+        "g": 96,
+        "b": 68
+      },
+      "bottomRight": {
+        "r": 111,
+        "g": 102,
+        "b": 73
+      }
+    }
+  },
+  {
+    "name": "Knight's_Vow_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 37,
+        "g": 136,
+        "b": 125
+      },
+      "topRight": {
+        "r": 43,
+        "g": 134,
+        "b": 134
+      },
+      "bottomLeft": {
+        "r": 43,
+        "g": 89,
+        "b": 92
+      },
+      "bottomRight": {
+        "r": 45,
+        "g": 94,
+        "b": 97
+      }
+    }
+  },
+  {
+    "name": "Kraken_Slayer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 112,
+        "g": 102,
+        "b": 75
+      },
+      "topRight": {
+        "r": 100,
+        "g": 106,
+        "b": 87
+      },
+      "bottomLeft": {
+        "r": 119,
+        "g": 79,
+        "b": 45
+      },
+      "bottomRight": {
+        "r": 69,
+        "g": 61,
+        "b": 45
+      }
+    }
+  },
+  {
+    "name": "Last_Whisper_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 44,
+        "g": 42,
+        "b": 47
+      },
+      "topRight": {
+        "r": 39,
+        "g": 52,
+        "b": 66
+      },
+      "bottomLeft": {
+        "r": 31,
+        "g": 65,
+        "b": 89
+      },
+      "bottomRight": {
+        "r": 78,
+        "g": 50,
+        "b": 41
+      }
+    }
+  },
+  {
+    "name": "Liandry's_Torment_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 121,
+        "g": 126,
+        "b": 145
+      },
+      "topRight": {
+        "r": 133,
+        "g": 122,
+        "b": 125
+      },
+      "bottomLeft": {
+        "r": 106,
+        "g": 121,
+        "b": 151
+      },
+      "bottomRight": {
+        "r": 90,
+        "g": 113,
+        "b": 128
+      }
+    }
+  },
+  {
+    "name": "Lich_Bane_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 229,
+        "g": 180,
+        "b": 85
+      },
+      "topRight": {
+        "r": 134,
+        "g": 77,
+        "b": 64
+      },
+      "bottomLeft": {
+        "r": 121,
+        "g": 71,
+        "b": 80
+      },
+      "bottomRight": {
+        "r": 150,
+        "g": 147,
+        "b": 135
+      }
+    }
+  },
+  {
+    "name": "Lightning_Rod_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 111,
+        "g": 162,
+        "b": 194
+      },
+      "topRight": {
+        "r": 120,
+        "g": 173,
+        "b": 206
+      },
+      "bottomLeft": {
+        "r": 82,
+        "g": 113,
+        "b": 145
+      },
+      "bottomRight": {
+        "r": 91,
+        "g": 123,
+        "b": 155
+      }
+    }
+  },
+  {
+    "name": "Locket_of_the_Iron_Solari_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 159,
+        "g": 125,
+        "b": 61
+      },
+      "topRight": {
+        "r": 148,
+        "g": 109,
+        "b": 62
+      },
+      "bottomLeft": {
+        "r": 143,
+        "g": 105,
+        "b": 46
+      },
+      "bottomRight": {
+        "r": 125,
+        "g": 79,
+        "b": 39
+      }
+    }
+  },
+  {
+    "name": "Long_Sword_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 49,
+        "g": 52,
+        "b": 49
+      },
+      "topRight": {
+        "r": 143,
+        "g": 149,
+        "b": 131
+      },
+      "bottomLeft": {
+        "r": 84,
+        "g": 81,
+        "b": 64
+      },
+      "bottomRight": {
+        "r": 58,
+        "g": 57,
+        "b": 41
+      }
+    }
+  },
+  {
+    "name": "Lord_Dominik's_Regards_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 70,
+        "g": 91,
+        "b": 104
+      },
+      "topRight": {
+        "r": 76,
+        "g": 88,
+        "b": 102
+      },
+      "bottomLeft": {
+        "r": 72,
+        "g": 66,
+        "b": 75
+      },
+      "bottomRight": {
+        "r": 44,
+        "g": 76,
+        "b": 94
+      }
+    }
+  },
+  {
+    "name": "Lost_Chapter_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 69,
+        "g": 96,
+        "b": 131
+      },
+      "topRight": {
+        "r": 96,
+        "g": 95,
+        "b": 101
+      },
+      "bottomLeft": {
+        "r": 95,
+        "g": 103,
+        "b": 110
+      },
+      "bottomRight": {
+        "r": 74,
+        "g": 89,
+        "b": 97
+      }
+    }
+  },
+  {
+    "name": "Luden's_Companion_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 79,
+        "g": 150,
+        "b": 133
+      },
+      "topRight": {
+        "r": 82,
+        "g": 112,
+        "b": 101
+      },
+      "bottomLeft": {
+        "r": 64,
+        "g": 106,
+        "b": 95
+      },
+      "bottomRight": {
+        "r": 63,
+        "g": 119,
+        "b": 97
+      }
+    }
+  },
+  {
+    "name": "Malignance_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 74,
+        "g": 31,
+        "b": 34
+      },
+      "topRight": {
+        "r": 117,
+        "g": 30,
+        "b": 54
+      },
+      "bottomLeft": {
+        "r": 86,
+        "g": 23,
+        "b": 27
+      },
+      "bottomRight": {
+        "r": 98,
+        "g": 19,
+        "b": 48
+      }
+    }
+  },
+  {
+    "name": "Manamune_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 47,
+        "g": 76,
+        "b": 108
+      },
+      "topRight": {
+        "r": 120,
+        "g": 133,
+        "b": 140
+      },
+      "bottomLeft": {
+        "r": 115,
+        "g": 164,
+        "b": 162
+      },
+      "bottomRight": {
+        "r": 72,
+        "g": 119,
+        "b": 150
+      }
+    }
+  },
+  {
+    "name": "Maw_of_Malmortius_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 67,
+        "g": 26,
+        "b": 88
+      },
+      "topRight": {
+        "r": 84,
+        "g": 73,
+        "b": 117
+      },
+      "bottomLeft": {
+        "r": 119,
+        "g": 82,
+        "b": 101
+      },
+      "bottomRight": {
+        "r": 113,
+        "g": 51,
+        "b": 97
+      }
+    }
+  },
+  {
+    "name": "Mejai's_Soulstealer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 120,
+        "g": 76,
+        "b": 107
+      },
+      "topRight": {
+        "r": 127,
+        "g": 76,
+        "b": 105
+      },
+      "bottomLeft": {
+        "r": 137,
+        "g": 89,
+        "b": 91
+      },
+      "bottomRight": {
+        "r": 105,
+        "g": 61,
+        "b": 77
+      }
+    }
+  },
+  {
+    "name": "Mercurial_Scimitar_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 70,
+        "g": 116,
+        "b": 22
+      },
+      "topRight": {
+        "r": 112,
+        "g": 116,
+        "b": 91
+      },
+      "bottomLeft": {
+        "r": 83,
+        "g": 100,
+        "b": 61
+      },
+      "bottomRight": {
+        "r": 66,
+        "g": 113,
+        "b": 15
+      }
+    }
+  },
+  {
+    "name": "Mercury's_Treads_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 39,
+        "g": 61,
+        "b": 77
+      },
+      "topRight": {
+        "r": 45,
+        "g": 86,
+        "b": 104
+      },
+      "bottomLeft": {
+        "r": 78,
+        "g": 94,
+        "b": 106
+      },
+      "bottomRight": {
+        "r": 70,
+        "g": 103,
+        "b": 117
+      }
+    }
+  },
+  {
+    "name": "Mikael's_Blessing_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 92,
+        "g": 95,
+        "b": 46
+      },
+      "topRight": {
+        "r": 168,
+        "g": 131,
+        "b": 49
+      },
+      "bottomLeft": {
+        "r": 87,
+        "g": 81,
+        "b": 42
+      },
+      "bottomRight": {
+        "r": 74,
+        "g": 100,
+        "b": 57
+      }
+    }
+  },
+  {
+    "name": "Mirage_Blade_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 77,
+        "g": 106,
+        "b": 143
+      },
+      "topRight": {
+        "r": 14,
+        "g": 56,
+        "b": 74
+      },
+      "bottomLeft": {
+        "r": 11,
+        "g": 58,
+        "b": 80
+      },
+      "bottomRight": {
+        "r": 48,
+        "g": 66,
+        "b": 105
+      }
+    }
+  },
+  {
+    "name": "Moonstone_Renewer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 72,
+        "g": 74,
+        "b": 86
+      },
+      "topRight": {
+        "r": 71,
+        "g": 60,
+        "b": 63
+      },
+      "bottomLeft": {
+        "r": 111,
+        "g": 140,
+        "b": 133
+      },
+      "bottomRight": {
+        "r": 109,
+        "g": 108,
+        "b": 113
+      }
+    }
+  },
+  {
+    "name": "Morellonomicon_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 74,
+        "g": 86,
+        "b": 77
+      },
+      "topRight": {
+        "r": 71,
+        "g": 90,
+        "b": 62
+      },
+      "bottomLeft": {
+        "r": 72,
+        "g": 106,
+        "b": 64
+      },
+      "bottomRight": {
+        "r": 78,
+        "g": 82,
+        "b": 73
+      }
+    }
+  },
+  {
+    "name": "Mortal_Reminder_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 72,
+        "g": 70,
+        "b": 53
+      },
+      "topRight": {
+        "r": 62,
+        "g": 69,
+        "b": 53
+      },
+      "bottomLeft": {
+        "r": 93,
+        "g": 103,
+        "b": 31
+      },
+      "bottomRight": {
+        "r": 80,
+        "g": 80,
+        "b": 55
+      }
+    }
+  },
+  {
+    "name": "Mosstomper_Seedling_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 33,
+        "g": 70,
+        "b": 12
+      },
+      "topRight": {
+        "r": 33,
+        "g": 77,
+        "b": 6
+      },
+      "bottomLeft": {
+        "r": 49,
+        "g": 84,
+        "b": 11
+      },
+      "bottomRight": {
+        "r": 74,
+        "g": 111,
+        "b": 7
+      }
+    }
+  },
+  {
+    "name": "Muramana_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 82,
+        "g": 134,
+        "b": 181
+      },
+      "topRight": {
+        "r": 144,
+        "g": 149,
+        "b": 152
+      },
+      "bottomLeft": {
+        "r": 92,
+        "g": 125,
+        "b": 145
+      },
+      "bottomRight": {
+        "r": 80,
+        "g": 133,
+        "b": 169
+      }
+    }
+  },
+  {
+    "name": "Nashor's_Tooth_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 162,
+        "g": 72,
+        "b": 113
+      },
+      "topRight": {
+        "r": 92,
+        "g": 23,
+        "b": 94
+      },
+      "bottomLeft": {
+        "r": 96,
+        "g": 26,
+        "b": 88
+      },
+      "bottomRight": {
+        "r": 117,
+        "g": 58,
+        "b": 89
+      }
+    }
+  },
+  {
+    "name": "Navori_Flickerblade_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 36,
+        "g": 51,
+        "b": 67
+      },
+      "topRight": {
+        "r": 79,
+        "g": 62,
+        "b": 96
+      },
+      "bottomLeft": {
+        "r": 68,
+        "g": 26,
+        "b": 81
+      },
+      "bottomRight": {
+        "r": 96,
+        "g": 131,
+        "b": 171
+      }
+    }
+  },
+  {
+    "name": "Needlessly_Large_Rod_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 104,
+        "g": 68,
+        "b": 100
+      },
+      "topRight": {
+        "r": 72,
+        "g": 56,
+        "b": 78
+      },
+      "bottomLeft": {
+        "r": 82,
+        "g": 46,
+        "b": 86
+      },
+      "bottomRight": {
+        "r": 94,
+        "g": 59,
+        "b": 94
+      }
+    }
+  },
+  {
+    "name": "Negatron_Cloak_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 80,
+        "g": 89,
+        "b": 125
+      },
+      "topRight": {
+        "r": 87,
+        "g": 91,
+        "b": 118
+      },
+      "bottomLeft": {
+        "r": 93,
+        "g": 98,
+        "b": 135
+      },
+      "bottomRight": {
+        "r": 121,
+        "g": 118,
+        "b": 146
+      }
+    }
+  },
+  {
+    "name": "Night_Harvester_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 72,
+        "g": 105,
+        "b": 138
+      },
+      "topRight": {
+        "r": 41,
+        "g": 69,
+        "b": 83
+      },
+      "bottomLeft": {
+        "r": 42,
+        "g": 101,
+        "b": 122
+      },
+      "bottomRight": {
+        "r": 36,
+        "g": 54,
+        "b": 68
+      }
+    }
+  },
+  {
+    "name": "Noonquiver_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 76,
+        "g": 100,
+        "b": 99
+      },
+      "topRight": {
+        "r": 65,
+        "g": 93,
+        "b": 96
+      },
+      "bottomLeft": {
+        "r": 55,
+        "g": 66,
+        "b": 74
+      },
+      "bottomRight": {
+        "r": 98,
+        "g": 72,
+        "b": 38
+      }
+    }
+  },
+  {
+    "name": "Null-Magic_Mantle_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 66,
+        "g": 55,
+        "b": 43
+      },
+      "topRight": {
+        "r": 67,
+        "g": 58,
+        "b": 41
+      },
+      "bottomLeft": {
+        "r": 53,
+        "g": 44,
+        "b": 34
+      },
+      "bottomRight": {
+        "r": 85,
+        "g": 70,
+        "b": 44
+      }
+    }
+  },
+  {
+    "name": "Oblivion_Orb_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 53,
+        "g": 89,
+        "b": 53
+      },
+      "topRight": {
+        "r": 51,
+        "g": 82,
+        "b": 46
+      },
+      "bottomLeft": {
+        "r": 43,
+        "g": 82,
+        "b": 44
+      },
+      "bottomRight": {
+        "r": 42,
+        "g": 82,
+        "b": 50
+      }
+    }
+  },
+  {
+    "name": "Opportunity_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 49,
+        "g": 62,
+        "b": 100
+      },
+      "topRight": {
+        "r": 66,
+        "g": 55,
+        "b": 121
+      },
+      "bottomLeft": {
+        "r": 20,
+        "g": 41,
+        "b": 61
+      },
+      "bottomRight": {
+        "r": 52,
+        "g": 73,
+        "b": 115
+      }
+    }
+  },
+  {
+    "name": "Oracle_Lens_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 101,
+        "g": 44,
+        "b": 28
+      },
+      "topRight": {
+        "r": 99,
+        "g": 45,
+        "b": 28
+      },
+      "bottomLeft": {
+        "r": 143,
+        "g": 32,
+        "b": 8
+      },
+      "bottomRight": {
+        "r": 145,
+        "g": 27,
+        "b": 7
+      }
+    }
+  },
+  {
+    "name": "Overlord's_Bloodmail_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 73,
+        "g": 45,
+        "b": 73
+      },
+      "topRight": {
+        "r": 117,
+        "g": 82,
+        "b": 96
+      },
+      "bottomLeft": {
+        "r": 106,
+        "g": 60,
+        "b": 121
+      },
+      "bottomRight": {
+        "r": 86,
+        "g": 57,
+        "b": 82
+      }
+    }
+  },
+  {
+    "name": "Phage_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 40,
+        "g": 62,
+        "b": 59
+      },
+      "topRight": {
+        "r": 143,
+        "g": 110,
+        "b": 84
+      },
+      "bottomLeft": {
+        "r": 65,
+        "g": 76,
+        "b": 70
+      },
+      "bottomRight": {
+        "r": 124,
+        "g": 113,
+        "b": 76
+      }
+    }
+  },
+  {
+    "name": "Phantom_Dancer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 14,
+        "g": 79,
+        "b": 92
+      },
+      "topRight": {
+        "r": 18,
+        "g": 71,
+        "b": 78
+      },
+      "bottomLeft": {
+        "r": 37,
+        "g": 95,
+        "b": 94
+      },
+      "bottomRight": {
+        "r": 54,
+        "g": 108,
+        "b": 110
+      }
+    }
+  },
+  {
+    "name": "Phreakish_Gusto_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 142,
+        "g": 75,
+        "b": 45
+      },
+      "topRight": {
+        "r": 165,
+        "g": 95,
+        "b": 68
+      },
+      "bottomLeft": {
+        "r": 90,
+        "g": 40,
+        "b": 54
+      },
+      "bottomRight": {
+        "r": 82,
+        "g": 36,
+        "b": 49
+      }
+    }
+  },
+  {
+    "name": "Pickaxe_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 50,
+        "g": 57,
+        "b": 60
+      },
+      "topRight": {
+        "r": 24,
+        "g": 36,
+        "b": 37
+      },
+      "bottomLeft": {
+        "r": 11,
+        "g": 30,
+        "b": 29
+      },
+      "bottomRight": {
+        "r": 45,
+        "g": 40,
+        "b": 30
+      }
+    }
+  },
+  {
+    "name": "Plated_Steelcaps_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 88,
+        "g": 57,
+        "b": 61
+      },
+      "topRight": {
+        "r": 74,
+        "g": 36,
+        "b": 35
+      },
+      "bottomLeft": {
+        "r": 117,
+        "g": 57,
+        "b": 56
+      },
+      "bottomRight": {
+        "r": 97,
+        "g": 45,
+        "b": 44
+      }
+    }
+  },
+  {
+    "name": "Poro-Snax_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 132,
+        "g": 134,
+        "b": 130
+      },
+      "topRight": {
+        "r": 123,
+        "g": 118,
+        "b": 115
+      },
+      "bottomLeft": {
+        "r": 121,
+        "g": 130,
+        "b": 133
+      },
+      "bottomRight": {
+        "r": 114,
+        "g": 94,
+        "b": 90
+      }
+    }
+  },
+  {
+    "name": "Prismatic_Item_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 108,
+        "g": 105,
+        "b": 170
+      },
+      "topRight": {
+        "r": 125,
+        "g": 106,
+        "b": 164
+      },
+      "bottomLeft": {
+        "r": 133,
+        "g": 122,
+        "b": 177
+      },
+      "bottomRight": {
+        "r": 118,
+        "g": 113,
+        "b": 170
+      }
+    }
+  },
+  {
+    "name": "Profane_Hydra_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 87,
+        "g": 95,
+        "b": 117
+      },
+      "topRight": {
+        "r": 66,
+        "g": 72,
+        "b": 100
+      },
+      "bottomLeft": {
+        "r": 60,
+        "g": 75,
+        "b": 104
+      },
+      "bottomRight": {
+        "r": 55,
+        "g": 67,
+        "b": 97
+      }
+    }
+  },
+  {
+    "name": "Prowler's_Claw_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 45,
+        "g": 73,
+        "b": 71
+      },
+      "topRight": {
+        "r": 84,
+        "g": 67,
+        "b": 43
+      },
+      "bottomLeft": {
+        "r": 83,
+        "g": 114,
+        "b": 106
+      },
+      "bottomRight": {
+        "r": 36,
+        "g": 66,
+        "b": 69
+      }
+    }
+  },
+  {
+    "name": "Puppeteer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 65,
+        "g": 96,
+        "b": 132
+      },
+      "topRight": {
+        "r": 83,
+        "g": 91,
+        "b": 101
+      },
+      "bottomLeft": {
+        "r": 93,
+        "g": 62,
+        "b": 109
+      },
+      "bottomRight": {
+        "r": 84,
+        "g": 106,
+        "b": 138
+      }
+    }
+  },
+  {
+    "name": "Pyromancer's_Cloak_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 78,
+        "g": 71,
+        "b": 75
+      },
+      "topRight": {
+        "r": 124,
+        "g": 101,
+        "b": 96
+      },
+      "bottomLeft": {
+        "r": 115,
+        "g": 69,
+        "b": 61
+      },
+      "bottomRight": {
+        "r": 150,
+        "g": 107,
+        "b": 80
+      }
+    }
+  },
+  {
+    "name": "Quicksilver_Sash_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 52,
+        "g": 57,
+        "b": 71
+      },
+      "topRight": {
+        "r": 64,
+        "g": 73,
+        "b": 88
+      },
+      "bottomLeft": {
+        "r": 37,
+        "g": 31,
+        "b": 57
+      },
+      "bottomRight": {
+        "r": 41,
+        "g": 35,
+        "b": 67
+      }
+    }
+  },
+  {
+    "name": "Rabadon's_Deathcap_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 103,
+        "g": 40,
+        "b": 55
+      },
+      "topRight": {
+        "r": 109,
+        "g": 48,
+        "b": 53
+      },
+      "bottomLeft": {
+        "r": 118,
+        "g": 70,
+        "b": 98
+      },
+      "bottomRight": {
+        "r": 141,
+        "g": 83,
+        "b": 83
+      }
+    }
+  },
+  {
+    "name": "Radiant_Virtue_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 147,
+        "g": 134,
+        "b": 85
+      },
+      "topRight": {
+        "r": 138,
+        "g": 123,
+        "b": 78
+      },
+      "bottomLeft": {
+        "r": 58,
+        "g": 85,
+        "b": 62
+      },
+      "bottomRight": {
+        "r": 72,
+        "g": 98,
+        "b": 72
+      }
+    }
+  },
+  {
+    "name": "Raise_Morale_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 85,
+        "g": 47,
+        "b": 42
+      },
+      "topRight": {
+        "r": 79,
+        "g": 60,
+        "b": 54
+      },
+      "bottomLeft": {
+        "r": 100,
+        "g": 31,
+        "b": 23
+      },
+      "bottomRight": {
+        "r": 82,
+        "g": 35,
+        "b": 30
+      }
+    }
+  },
+  {
+    "name": "Randuin's_Omen_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 152,
+        "g": 111,
+        "b": 80
+      },
+      "topRight": {
+        "r": 160,
+        "g": 127,
+        "b": 118
+      },
+      "bottomLeft": {
+        "r": 106,
+        "g": 79,
+        "b": 100
+      },
+      "bottomRight": {
+        "r": 134,
+        "g": 100,
+        "b": 104
+      }
+    }
+  },
+  {
+    "name": "Rapid_Firecannon_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 138,
+        "g": 55,
+        "b": 27
+      },
+      "topRight": {
+        "r": 109,
+        "g": 55,
+        "b": 34
+      },
+      "bottomLeft": {
+        "r": 113,
+        "g": 65,
+        "b": 40
+      },
+      "bottomRight": {
+        "r": 108,
+        "g": 37,
+        "b": 19
+      }
+    }
+  },
+  {
+    "name": "Ravenous_Hydra_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 114,
+        "g": 83,
+        "b": 77
+      },
+      "topRight": {
+        "r": 115,
+        "g": 68,
+        "b": 59
+      },
+      "bottomLeft": {
+        "r": 129,
+        "g": 74,
+        "b": 66
+      },
+      "bottomRight": {
+        "r": 82,
+        "g": 57,
+        "b": 54
+      }
+    }
+  },
+  {
+    "name": "Reality_Fracture_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 62,
+        "g": 36,
+        "b": 87
+      },
+      "topRight": {
+        "r": 89,
+        "g": 61,
+        "b": 98
+      },
+      "bottomLeft": {
+        "r": 60,
+        "g": 35,
+        "b": 88
+      },
+      "bottomRight": {
+        "r": 112,
+        "g": 52,
+        "b": 124
+      }
+    }
+  },
+  {
+    "name": "Reaper's_Toll_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 43,
+        "g": 105,
+        "b": 128
+      },
+      "topRight": {
+        "r": 60,
+        "g": 134,
+        "b": 169
+      },
+      "bottomLeft": {
+        "r": 36,
+        "g": 102,
+        "b": 114
+      },
+      "bottomRight": {
+        "r": 33,
+        "g": 116,
+        "b": 138
+      }
+    }
+  },
+  {
+    "name": "Rectrix_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 49,
+        "g": 19,
+        "b": 36
+      },
+      "topRight": {
+        "r": 82,
+        "g": 13,
+        "b": 44
+      },
+      "bottomLeft": {
+        "r": 29,
+        "g": 22,
+        "b": 44
+      },
+      "bottomRight": {
+        "r": 18,
+        "g": 19,
+        "b": 36
+      }
+    }
+  },
+  {
+    "name": "Recurve_Bow_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 13,
+        "g": 22,
+        "b": 24
+      },
+      "topRight": {
+        "r": 58,
+        "g": 80,
+        "b": 69
+      },
+      "bottomLeft": {
+        "r": 46,
+        "g": 64,
+        "b": 59
+      },
+      "bottomRight": {
+        "r": 52,
+        "g": 106,
+        "b": 106
+      }
+    }
+  },
+  {
+    "name": "Redemption_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 149,
+        "g": 130,
+        "b": 133
+      },
+      "topRight": {
+        "r": 149,
+        "g": 136,
+        "b": 150
+      },
+      "bottomLeft": {
+        "r": 97,
+        "g": 79,
+        "b": 87
+      },
+      "bottomRight": {
+        "r": 137,
+        "g": 129,
+        "b": 84
+      }
+    }
+  },
+  {
+    "name": "Refillable_Potion_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 43,
+        "g": 71,
+        "b": 59
+      },
+      "topRight": {
+        "r": 21,
+        "g": 37,
+        "b": 26
+      },
+      "bottomLeft": {
+        "r": 38,
+        "g": 65,
+        "b": 54
+      },
+      "bottomRight": {
+        "r": 29,
+        "g": 124,
+        "b": 100
+      }
+    }
+  },
+  {
+    "name": "Regicide_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 57,
+        "g": 74,
+        "b": 114
+      },
+      "topRight": {
+        "r": 28,
+        "g": 53,
+        "b": 103
+      },
+      "bottomLeft": {
+        "r": 51,
+        "g": 88,
+        "b": 150
+      },
+      "bottomRight": {
+        "r": 59,
+        "g": 85,
+        "b": 126
+      }
+    }
+  },
+  {
+    "name": "Rejuvenation_Bead_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 67,
+        "g": 83,
+        "b": 36
+      },
+      "topRight": {
+        "r": 12,
+        "g": 30,
+        "b": 14
+      },
+      "bottomLeft": {
+        "r": 38,
+        "g": 75,
+        "b": 32
+      },
+      "bottomRight": {
+        "r": 21,
+        "g": 52,
+        "b": 29
+      }
+    }
+  },
+  {
+    "name": "Reverberation_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 72,
+        "g": 32,
+        "b": 52
+      },
+      "topRight": {
+        "r": 75,
+        "g": 51,
+        "b": 68
+      },
+      "bottomLeft": {
+        "r": 64,
+        "g": 35,
+        "b": 48
+      },
+      "bottomRight": {
+        "r": 62,
+        "g": 44,
+        "b": 54
+      }
+    }
+  },
+  {
+    "name": "Riftmaker_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 129,
+        "g": 78,
+        "b": 86
+      },
+      "topRight": {
+        "r": 121,
+        "g": 81,
+        "b": 143
+      },
+      "bottomLeft": {
+        "r": 104,
+        "g": 88,
+        "b": 107
+      },
+      "bottomRight": {
+        "r": 121,
+        "g": 88,
+        "b": 110
+      }
+    }
+  },
+  {
+    "name": "Rod_of_Ages_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 131,
+        "g": 180,
+        "b": 165
+      },
+      "topRight": {
+        "r": 99,
+        "g": 130,
+        "b": 116
+      },
+      "bottomLeft": {
+        "r": 113,
+        "g": 141,
+        "b": 107
+      },
+      "bottomRight": {
+        "r": 113,
+        "g": 124,
+        "b": 93
+      }
+    }
+  },
+  {
+    "name": "Ruby_Crystal_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 80,
+        "g": 37,
+        "b": 43
+      },
+      "topRight": {
+        "r": 72,
+        "g": 15,
+        "b": 29
+      },
+      "bottomLeft": {
+        "r": 94,
+        "g": 23,
+        "b": 40
+      },
+      "bottomRight": {
+        "r": 58,
+        "g": 9,
+        "b": 23
+      }
+    }
+  },
+  {
+    "name": "Runaan's_Hurricane_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 175,
+        "g": 86,
+        "b": 41
+      },
+      "topRight": {
+        "r": 139,
+        "g": 94,
+        "b": 53
+      },
+      "bottomLeft": {
+        "r": 126,
+        "g": 55,
+        "b": 34
+      },
+      "bottomRight": {
+        "r": 168,
+        "g": 89,
+        "b": 37
+      }
+    }
+  },
+  {
+    "name": "Runecarver_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 135,
+        "g": 96,
+        "b": 130
+      },
+      "topRight": {
+        "r": 147,
+        "g": 110,
+        "b": 127
+      },
+      "bottomLeft": {
+        "r": 105,
+        "g": 119,
+        "b": 154
+      },
+      "bottomRight": {
+        "r": 89,
+        "g": 107,
+        "b": 126
+      }
+    }
+  },
+  {
+    "name": "Runic_Compass_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 67,
+        "g": 73,
+        "b": 64
+      },
+      "topRight": {
+        "r": 53,
+        "g": 43,
+        "b": 27
+      },
+      "bottomLeft": {
+        "r": 75,
+        "g": 71,
+        "b": 71
+      },
+      "bottomRight": {
+        "r": 98,
+        "g": 100,
+        "b": 72
+      }
+    }
+  },
+  {
+    "name": "Rylai's_Crystal_Scepter_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 53,
+        "g": 80,
+        "b": 108
+      },
+      "topRight": {
+        "r": 52,
+        "g": 106,
+        "b": 136
+      },
+      "bottomLeft": {
+        "r": 92,
+        "g": 108,
+        "b": 100
+      },
+      "bottomRight": {
+        "r": 57,
+        "g": 88,
+        "b": 120
+      }
+    }
+  },
+  {
+    "name": "Sanguine_Gift_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 76,
+        "g": 34,
+        "b": 61
+      },
+      "topRight": {
+        "r": 73,
+        "g": 54,
+        "b": 71
+      },
+      "bottomLeft": {
+        "r": 74,
+        "g": 33,
+        "b": 52
+      },
+      "bottomRight": {
+        "r": 67,
+        "g": 35,
+        "b": 62
+      }
+    }
+  },
+  {
+    "name": "Sapphire_Crystal_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 35,
+        "g": 43,
+        "b": 73
+      },
+      "topRight": {
+        "r": 50,
+        "g": 67,
+        "b": 116
+      },
+      "bottomLeft": {
+        "r": 75,
+        "g": 99,
+        "b": 141
+      },
+      "bottomRight": {
+        "r": 37,
+        "g": 55,
+        "b": 103
+      }
+    }
+  },
+  {
+    "name": "Scorchclaw_Pup_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 98,
+        "g": 18,
+        "b": 7
+      },
+      "topRight": {
+        "r": 93,
+        "g": 29,
+        "b": 17
+      },
+      "bottomLeft": {
+        "r": 155,
+        "g": 59,
+        "b": 10
+      },
+      "bottomRight": {
+        "r": 119,
+        "g": 45,
+        "b": 19
+      }
+    }
+  },
+  {
+    "name": "Scout's_Slingshot_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 141,
+        "g": 168,
+        "b": 89
+      },
+      "topRight": {
+        "r": 88,
+        "g": 125,
+        "b": 65
+      },
+      "bottomLeft": {
+        "r": 87,
+        "g": 114,
+        "b": 55
+      },
+      "bottomRight": {
+        "r": 60,
+        "g": 106,
+        "b": 48
+      }
+    }
+  },
+  {
+    "name": "Seeker's_Armguard_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 96,
+        "g": 119,
+        "b": 117
+      },
+      "topRight": {
+        "r": 30,
+        "g": 59,
+        "b": 135
+      },
+      "bottomLeft": {
+        "r": 26,
+        "g": 29,
+        "b": 76
+      },
+      "bottomRight": {
+        "r": 68,
+        "g": 67,
+        "b": 88
+      }
+    }
+  },
+  {
+    "name": "Seraph's_Embrace_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 80,
+        "g": 153,
+        "b": 156
+      },
+      "topRight": {
+        "r": 163,
+        "g": 162,
+        "b": 129
+      },
+      "bottomLeft": {
+        "r": 81,
+        "g": 109,
+        "b": 94
+      },
+      "bottomRight": {
+        "r": 90,
+        "g": 121,
+        "b": 100
+      }
+    }
+  },
+  {
+    "name": "Serpent's_Fang_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 73,
+        "g": 118,
+        "b": 87
+      },
+      "topRight": {
+        "r": 74,
+        "g": 114,
+        "b": 86
+      },
+      "bottomLeft": {
+        "r": 64,
+        "g": 131,
+        "b": 109
+      },
+      "bottomRight": {
+        "r": 73,
+        "g": 155,
+        "b": 130
+      }
+    }
+  },
+  {
+    "name": "Serrated_Dirk_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 36,
+        "g": 9,
+        "b": 11
+      },
+      "topRight": {
+        "r": 83,
+        "g": 52,
+        "b": 51
+      },
+      "bottomLeft": {
+        "r": 97,
+        "g": 58,
+        "b": 49
+      },
+      "bottomRight": {
+        "r": 55,
+        "g": 17,
+        "b": 28
+      }
+    }
+  },
+  {
+    "name": "Serylda's_Grudge_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 70,
+        "g": 107,
+        "b": 133
+      },
+      "topRight": {
+        "r": 42,
+        "g": 116,
+        "b": 151
+      },
+      "bottomLeft": {
+        "r": 64,
+        "g": 106,
+        "b": 141
+      },
+      "bottomRight": {
+        "r": 53,
+        "g": 80,
+        "b": 96
+      }
+    }
+  },
+  {
+    "name": "Shadowflame_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 125,
+        "g": 92,
+        "b": 74
+      },
+      "topRight": {
+        "r": 105,
+        "g": 75,
+        "b": 57
+      },
+      "bottomLeft": {
+        "r": 115,
+        "g": 76,
+        "b": 68
+      },
+      "bottomRight": {
+        "r": 102,
+        "g": 66,
+        "b": 45
+      }
+    }
+  },
+  {
+    "name": "Shattered_Armguard_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 101,
+        "g": 96,
+        "b": 88
+      },
+      "topRight": {
+        "r": 30,
+        "g": 34,
+        "b": 37
+      },
+      "bottomLeft": {
+        "r": 48,
+        "g": 47,
+        "b": 48
+      },
+      "bottomRight": {
+        "r": 57,
+        "g": 56,
+        "b": 53
+      }
+    }
+  },
+  {
+    "name": "Sheen_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 38,
+        "g": 50,
+        "b": 107
+      },
+      "topRight": {
+        "r": 46,
+        "g": 54,
+        "b": 79
+      },
+      "bottomLeft": {
+        "r": 106,
+        "g": 186,
+        "b": 232
+      },
+      "bottomRight": {
+        "r": 48,
+        "g": 73,
+        "b": 127
+      }
+    }
+  },
+  {
+    "name": "Shield_of_Molten_Stone_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 155,
+        "g": 92,
+        "b": 48
+      },
+      "topRight": {
+        "r": 126,
+        "g": 72,
+        "b": 44
+      },
+      "bottomLeft": {
+        "r": 172,
+        "g": 96,
+        "b": 34
+      },
+      "bottomRight": {
+        "r": 117,
+        "g": 37,
+        "b": 16
+      }
+    }
+  },
+  {
+    "name": "Shurelya's_Battlesong_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 162,
+        "g": 92,
+        "b": 39
+      },
+      "topRight": {
+        "r": 182,
+        "g": 82,
+        "b": 25
+      },
+      "bottomLeft": {
+        "r": 122,
+        "g": 71,
+        "b": 30
+      },
+      "bottomRight": {
+        "r": 129,
+        "g": 72,
+        "b": 28
+      }
+    }
+  },
+  {
+    "name": "Slightly_Magical_Boots_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 19,
+        "g": 17,
+        "b": 40
+      },
+      "topRight": {
+        "r": 46,
+        "g": 37,
+        "b": 57
+      },
+      "bottomLeft": {
+        "r": 45,
+        "g": 33,
+        "b": 47
+      },
+      "bottomRight": {
+        "r": 55,
+        "g": 38,
+        "b": 53
+      }
+    }
+  },
+  {
+    "name": "Solstice_Sleigh_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 72,
+        "g": 86,
+        "b": 91
+      },
+      "topRight": {
+        "r": 79,
+        "g": 67,
+        "b": 61
+      },
+      "bottomLeft": {
+        "r": 91,
+        "g": 101,
+        "b": 99
+      },
+      "bottomRight": {
+        "r": 67,
+        "g": 64,
+        "b": 60
+      }
+    }
+  },
+  {
+    "name": "Sorcerer's_Shoes_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 47,
+        "g": 63,
+        "b": 65
+      },
+      "topRight": {
+        "r": 51,
+        "g": 44,
+        "b": 80
+      },
+      "bottomLeft": {
+        "r": 45,
+        "g": 36,
+        "b": 64
+      },
+      "bottomRight": {
+        "r": 70,
+        "g": 61,
+        "b": 100
+      }
+    }
+  },
+  {
+    "name": "Spear_of_Shojin_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 67,
+        "g": 152,
+        "b": 100
+      },
+      "topRight": {
+        "r": 10,
+        "g": 76,
+        "b": 59
+      },
+      "bottomLeft": {
+        "r": 19,
+        "g": 124,
+        "b": 81
+      },
+      "bottomRight": {
+        "r": 47,
+        "g": 112,
+        "b": 38
+      }
+    }
+  },
+  {
+    "name": "Spectre's_Cowl_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 32,
+        "g": 78,
+        "b": 74
+      },
+      "topRight": {
+        "r": 26,
+        "g": 105,
+        "b": 91
+      },
+      "bottomLeft": {
+        "r": 34,
+        "g": 116,
+        "b": 117
+      },
+      "bottomRight": {
+        "r": 55,
+        "g": 180,
+        "b": 172
+      }
+    }
+  },
+  {
+    "name": "Spirit_Visage_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 51,
+        "g": 129,
+        "b": 94
+      },
+      "topRight": {
+        "r": 55,
+        "g": 122,
+        "b": 93
+      },
+      "bottomLeft": {
+        "r": 57,
+        "g": 85,
+        "b": 86
+      },
+      "bottomRight": {
+        "r": 78,
+        "g": 96,
+        "b": 99
+      }
+    }
+  },
+  {
+    "name": "Staff_of_Flowing_Water_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 49,
+        "g": 65,
+        "b": 109
+      },
+      "topRight": {
+        "r": 97,
+        "g": 142,
+        "b": 203
+      },
+      "bottomLeft": {
+        "r": 45,
+        "g": 90,
+        "b": 132
+      },
+      "bottomRight": {
+        "r": 35,
+        "g": 54,
+        "b": 99
+      }
+    }
+  },
+  {
+    "name": "Statikk_Shiv_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 65,
+        "g": 97,
+        "b": 87
+      },
+      "topRight": {
+        "r": 44,
+        "g": 94,
+        "b": 102
+      },
+      "bottomLeft": {
+        "r": 75,
+        "g": 108,
+        "b": 109
+      },
+      "bottomRight": {
+        "r": 56,
+        "g": 76,
+        "b": 71
+      }
+    }
+  },
+  {
+    "name": "Stat_Bonus_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 52,
+        "g": 115,
+        "b": 29
+      },
+      "topRight": {
+        "r": 49,
+        "g": 100,
+        "b": 33
+      },
+      "bottomLeft": {
+        "r": 42,
+        "g": 104,
+        "b": 31
+      },
+      "bottomRight": {
+        "r": 56,
+        "g": 108,
+        "b": 31
+      }
+    }
+  },
+  {
+    "name": "Stealth_Ward_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 122,
+        "g": 110,
+        "b": 25
+      },
+      "topRight": {
+        "r": 179,
+        "g": 135,
+        "b": 29
+      },
+      "bottomLeft": {
+        "r": 120,
+        "g": 85,
+        "b": 17
+      },
+      "bottomRight": {
+        "r": 86,
+        "g": 80,
+        "b": 18
+      }
+    }
+  },
+  {
+    "name": "Steel_Sigil_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 120,
+        "g": 68,
+        "b": 59
+      },
+      "topRight": {
+        "r": 127,
+        "g": 93,
+        "b": 82
+      },
+      "bottomLeft": {
+        "r": 113,
+        "g": 30,
+        "b": 44
+      },
+      "bottomRight": {
+        "r": 102,
+        "g": 41,
+        "b": 47
+      }
+    }
+  },
+  {
+    "name": "Sterak's_Gage_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 141,
+        "g": 64,
+        "b": 75
+      },
+      "topRight": {
+        "r": 97,
+        "g": 38,
+        "b": 46
+      },
+      "bottomLeft": {
+        "r": 154,
+        "g": 50,
+        "b": 50
+      },
+      "bottomRight": {
+        "r": 123,
+        "g": 27,
+        "b": 21
+      }
+    }
+  },
+  {
+    "name": "Stormrazor_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 70,
+        "g": 157,
+        "b": 151
+      },
+      "topRight": {
+        "r": 41,
+        "g": 130,
+        "b": 128
+      },
+      "bottomLeft": {
+        "r": 77,
+        "g": 174,
+        "b": 167
+      },
+      "bottomRight": {
+        "r": 52,
+        "g": 101,
+        "b": 101
+      }
+    }
+  },
+  {
+    "name": "Stormsurge_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 93,
+        "g": 149,
+        "b": 175
+      },
+      "topRight": {
+        "r": 56,
+        "g": 126,
+        "b": 164
+      },
+      "bottomLeft": {
+        "r": 60,
+        "g": 104,
+        "b": 145
+      },
+      "bottomRight": {
+        "r": 53,
+        "g": 93,
+        "b": 141
+      }
+    }
+  },
+  {
+    "name": "Stridebreaker_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 68,
+        "g": 114,
+        "b": 107
+      },
+      "topRight": {
+        "r": 98,
+        "g": 140,
+        "b": 137
+      },
+      "bottomLeft": {
+        "r": 18,
+        "g": 92,
+        "b": 104
+      },
+      "bottomRight": {
+        "r": 25,
+        "g": 97,
+        "b": 110
+      }
+    }
+  },
+  {
+    "name": "Sundered_Sky_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 92,
+        "g": 92,
+        "b": 83
+      },
+      "topRight": {
+        "r": 71,
+        "g": 54,
+        "b": 41
+      },
+      "bottomLeft": {
+        "r": 69,
+        "g": 48,
+        "b": 33
+      },
+      "bottomRight": {
+        "r": 108,
+        "g": 86,
+        "b": 59
+      }
+    }
+  },
+  {
+    "name": "Sunfire_Aegis_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 108,
+        "g": 70,
+        "b": 34
+      },
+      "topRight": {
+        "r": 120,
+        "g": 86,
+        "b": 32
+      },
+      "bottomLeft": {
+        "r": 90,
+        "g": 40,
+        "b": 15
+      },
+      "bottomRight": {
+        "r": 97,
+        "g": 39,
+        "b": 14
+      }
+    }
+  },
+  {
+    "name": "Super_Mech_Armor_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 118,
+        "g": 80,
+        "b": 160
+      },
+      "topRight": {
+        "r": 59,
+        "g": 30,
+        "b": 106
+      },
+      "bottomLeft": {
+        "r": 83,
+        "g": 64,
+        "b": 90
+      },
+      "bottomRight": {
+        "r": 92,
+        "g": 63,
+        "b": 103
+      }
+    }
+  },
+  {
+    "name": "Super_Mech_Power_Field_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 117,
+        "g": 39,
+        "b": 38
+      },
+      "topRight": {
+        "r": 87,
+        "g": 22,
+        "b": 48
+      },
+      "bottomLeft": {
+        "r": 176,
+        "g": 72,
+        "b": 101
+      },
+      "bottomRight": {
+        "r": 160,
+        "g": 66,
+        "b": 97
+      }
+    }
+  },
+  {
+    "name": "Sword_of_Blossoming_Dawn_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 109,
+        "g": 106,
+        "b": 137
+      },
+      "topRight": {
+        "r": 83,
+        "g": 63,
+        "b": 78
+      },
+      "bottomLeft": {
+        "r": 70,
+        "g": 47,
+        "b": 72
+      },
+      "bottomRight": {
+        "r": 102,
+        "g": 63,
+        "b": 86
+      }
+    }
+  },
+  {
+    "name": "Sword_of_the_Divine_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 120,
+        "g": 117,
+        "b": 29
+      },
+      "topRight": {
+        "r": 120,
+        "g": 114,
+        "b": 104
+      },
+      "bottomLeft": {
+        "r": 92,
+        "g": 78,
+        "b": 45
+      },
+      "bottomRight": {
+        "r": 105,
+        "g": 99,
+        "b": 25
+      }
+    }
+  },
+  {
+    "name": "Symbiotic_Soles_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 26,
+        "g": 14,
+        "b": 37
+      },
+      "topRight": {
+        "r": 41,
+        "g": 22,
+        "b": 44
+      },
+      "bottomLeft": {
+        "r": 40,
+        "g": 26,
+        "b": 54
+      },
+      "bottomRight": {
+        "r": 45,
+        "g": 20,
+        "b": 55
+      }
+    }
+  },
+  {
+    "name": "Synchronized_Souls_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 120,
+        "g": 67,
+        "b": 113
+      },
+      "topRight": {
+        "r": 136,
+        "g": 91,
+        "b": 122
+      },
+      "bottomLeft": {
+        "r": 172,
+        "g": 132,
+        "b": 99
+      },
+      "bottomRight": {
+        "r": 127,
+        "g": 80,
+        "b": 111
+      }
+    }
+  },
+  {
+    "name": "Tear_of_the_Goddess_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 19,
+        "g": 29,
+        "b": 94
+      },
+      "topRight": {
+        "r": 11,
+        "g": 24,
+        "b": 98
+      },
+      "bottomLeft": {
+        "r": 16,
+        "g": 53,
+        "b": 128
+      },
+      "bottomRight": {
+        "r": 6,
+        "g": 31,
+        "b": 91
+      }
+    }
+  },
+  {
+    "name": "Terminus_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 82,
+        "g": 127,
+        "b": 118
+      },
+      "topRight": {
+        "r": 78,
+        "g": 97,
+        "b": 97
+      },
+      "bottomLeft": {
+        "r": 101,
+        "g": 147,
+        "b": 132
+      },
+      "bottomRight": {
+        "r": 118,
+        "g": 128,
+        "b": 118
+      }
+    }
+  },
+  {
+    "name": "The_Brutalizer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 51,
+        "g": 60,
+        "b": 50
+      },
+      "topRight": {
+        "r": 64,
+        "g": 71,
+        "b": 50
+      },
+      "bottomLeft": {
+        "r": 50,
+        "g": 53,
+        "b": 43
+      },
+      "bottomRight": {
+        "r": 26,
+        "g": 42,
+        "b": 33
+      }
+    }
+  },
+  {
+    "name": "The_Collector_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 83,
+        "g": 136,
+        "b": 137
+      },
+      "topRight": {
+        "r": 96,
+        "g": 120,
+        "b": 96
+      },
+      "bottomLeft": {
+        "r": 59,
+        "g": 84,
+        "b": 81
+      },
+      "bottomRight": {
+        "r": 57,
+        "g": 97,
+        "b": 107
+      }
+    }
+  },
+  {
+    "name": "Thornmail_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 100,
+        "g": 77,
+        "b": 81
+      },
+      "topRight": {
+        "r": 96,
+        "g": 79,
+        "b": 82
+      },
+      "bottomLeft": {
+        "r": 82,
+        "g": 45,
+        "b": 48
+      },
+      "bottomRight": {
+        "r": 99,
+        "g": 65,
+        "b": 66
+      }
+    }
+  },
+  {
+    "name": "Tiamat_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 134,
+        "g": 116,
+        "b": 63
+      },
+      "topRight": {
+        "r": 123,
+        "g": 87,
+        "b": 38
+      },
+      "bottomLeft": {
+        "r": 99,
+        "g": 60,
+        "b": 21
+      },
+      "bottomRight": {
+        "r": 115,
+        "g": 55,
+        "b": 15
+      }
+    }
+  },
+  {
+    "name": "Titanic_Hydra_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 69,
+        "g": 87,
+        "b": 86
+      },
+      "topRight": {
+        "r": 100,
+        "g": 108,
+        "b": 99
+      },
+      "bottomLeft": {
+        "r": 50,
+        "g": 64,
+        "b": 67
+      },
+      "bottomRight": {
+        "r": 71,
+        "g": 82,
+        "b": 77
+      }
+    }
+  },
+  {
+    "name": "Total_Biscuit_of_Everlasting_Will_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 75,
+        "g": 64,
+        "b": 44
+      },
+      "topRight": {
+        "r": 81,
+        "g": 66,
+        "b": 47
+      },
+      "bottomLeft": {
+        "r": 106,
+        "g": 78,
+        "b": 50
+      },
+      "bottomRight": {
+        "r": 153,
+        "g": 91,
+        "b": 62
+      }
+    }
+  },
+  {
+    "name": "Trailblazer_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 161,
+        "g": 117,
+        "b": 55
+      },
+      "topRight": {
+        "r": 171,
+        "g": 127,
+        "b": 60
+      },
+      "bottomLeft": {
+        "r": 110,
+        "g": 55,
+        "b": 21
+      },
+      "bottomRight": {
+        "r": 127,
+        "g": 62,
+        "b": 20
+      }
+    }
+  },
+  {
+    "name": "Trinity_Force_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 128,
+        "g": 123,
+        "b": 54
+      },
+      "topRight": {
+        "r": 114,
+        "g": 107,
+        "b": 40
+      },
+      "bottomLeft": {
+        "r": 104,
+        "g": 93,
+        "b": 22
+      },
+      "bottomRight": {
+        "r": 91,
+        "g": 78,
+        "b": 26
+      }
+    }
+  },
+  {
+    "name": "Tunneler_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 44,
+        "g": 44,
+        "b": 57
+      },
+      "topRight": {
+        "r": 65,
+        "g": 64,
+        "b": 83
+      },
+      "bottomLeft": {
+        "r": 69,
+        "g": 67,
+        "b": 62
+      },
+      "bottomRight": {
+        "r": 55,
+        "g": 43,
+        "b": 33
+      }
+    }
+  },
+  {
+    "name": "Turbo_Chemtank_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 59,
+        "g": 46,
+        "b": 45
+      },
+      "topRight": {
+        "r": 55,
+        "g": 47,
+        "b": 39
+      },
+      "bottomLeft": {
+        "r": 68,
+        "g": 41,
+        "b": 42
+      },
+      "bottomRight": {
+        "r": 63,
+        "g": 35,
+        "b": 41
+      }
+    }
+  },
+  {
+    "name": "Twilight's_Edge_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 145,
+        "g": 125,
+        "b": 129
+      },
+      "topRight": {
+        "r": 176,
+        "g": 98,
+        "b": 127
+      },
+      "bottomLeft": {
+        "r": 57,
+        "g": 119,
+        "b": 149
+      },
+      "bottomRight": {
+        "r": 91,
+        "g": 115,
+        "b": 144
+      }
+    }
+  },
+  {
+    "name": "Twin_Mask_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 46,
+        "g": 91,
+        "b": 103
+      },
+      "topRight": {
+        "r": 92,
+        "g": 98,
+        "b": 120
+      },
+      "bottomLeft": {
+        "r": 34,
+        "g": 69,
+        "b": 87
+      },
+      "bottomRight": {
+        "r": 96,
+        "g": 95,
+        "b": 122
+      }
+    }
+  },
+  {
+    "name": "Umbral_Glaive_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 67,
+        "g": 63,
+        "b": 91
+      },
+      "topRight": {
+        "r": 46,
+        "g": 44,
+        "b": 74
+      },
+      "bottomLeft": {
+        "r": 69,
+        "g": 66,
+        "b": 93
+      },
+      "bottomRight": {
+        "r": 77,
+        "g": 85,
+        "b": 142
+      }
+    }
+  },
+  {
+    "name": "Unending_Despair_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 75,
+        "g": 74,
+        "b": 111
+      },
+      "topRight": {
+        "r": 73,
+        "g": 82,
+        "b": 133
+      },
+      "bottomLeft": {
+        "r": 86,
+        "g": 91,
+        "b": 118
+      },
+      "bottomRight": {
+        "r": 76,
+        "g": 97,
+        "b": 133
+      }
+    }
+  },
+  {
+    "name": "Vampiric_Scepter_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 119,
+        "g": 78,
+        "b": 44
+      },
+      "topRight": {
+        "r": 110,
+        "g": 71,
+        "b": 31
+      },
+      "bottomLeft": {
+        "r": 83,
+        "g": 46,
+        "b": 12
+      },
+      "bottomRight": {
+        "r": 97,
+        "g": 53,
+        "b": 6
+      }
+    }
+  },
+  {
+    "name": "Verdant_Barrier_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 14,
+        "g": 95,
+        "b": 101
+      },
+      "topRight": {
+        "r": 23,
+        "g": 104,
+        "b": 98
+      },
+      "bottomLeft": {
+        "r": 19,
+        "g": 77,
+        "b": 64
+      },
+      "bottomRight": {
+        "r": 21,
+        "g": 64,
+        "b": 44
+      }
+    }
+  },
+  {
+    "name": "Vigilant_Wardstone_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 126,
+        "g": 127,
+        "b": 75
+      },
+      "topRight": {
+        "r": 46,
+        "g": 73,
+        "b": 60
+      },
+      "bottomLeft": {
+        "r": 70,
+        "g": 144,
+        "b": 113
+      },
+      "bottomRight": {
+        "r": 76,
+        "g": 115,
+        "b": 88
+      }
+    }
+  },
+  {
+    "name": "Void_Staff_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 125,
+        "g": 81,
+        "b": 187
+      },
+      "topRight": {
+        "r": 80,
+        "g": 69,
+        "b": 161
+      },
+      "bottomLeft": {
+        "r": 61,
+        "g": 60,
+        "b": 145
+      },
+      "bottomRight": {
+        "r": 44,
+        "g": 38,
+        "b": 96
+      }
+    }
+  },
+  {
+    "name": "Voltaic_Cyclosword_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 158,
+        "g": 20,
+        "b": 62
+      },
+      "topRight": {
+        "r": 190,
+        "g": 87,
+        "b": 104
+      },
+      "bottomLeft": {
+        "r": 65,
+        "g": 31,
+        "b": 28
+      },
+      "bottomRight": {
+        "r": 101,
+        "g": 26,
+        "b": 31
+      }
+    }
+  },
+  {
+    "name": "Warden's_Mail_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 72,
+        "g": 64,
+        "b": 64
+      },
+      "topRight": {
+        "r": 105,
+        "g": 102,
+        "b": 89
+      },
+      "bottomLeft": {
+        "r": 85,
+        "g": 69,
+        "b": 69
+      },
+      "bottomRight": {
+        "r": 67,
+        "g": 61,
+        "b": 55
+      }
+    }
+  },
+  {
+    "name": "Warmog's_Armor_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 92,
+        "g": 94,
+        "b": 37
+      },
+      "topRight": {
+        "r": 104,
+        "g": 96,
+        "b": 42
+      },
+      "bottomLeft": {
+        "r": 102,
+        "g": 101,
+        "b": 26
+      },
+      "bottomRight": {
+        "r": 84,
+        "g": 86,
+        "b": 19
+      }
+    }
+  },
+  {
+    "name": "Watchful_Wardstone_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 108,
+        "g": 96,
+        "b": 46
+      },
+      "topRight": {
+        "r": 60,
+        "g": 81,
+        "b": 42
+      },
+      "bottomLeft": {
+        "r": 94,
+        "g": 91,
+        "b": 51
+      },
+      "bottomRight": {
+        "r": 60,
+        "g": 76,
+        "b": 53
+      }
+    }
+  },
+  {
+    "name": "Winged_Moonplate_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 109,
+        "g": 91,
+        "b": 85
+      },
+      "topRight": {
+        "r": 94,
+        "g": 84,
+        "b": 82
+      },
+      "bottomLeft": {
+        "r": 66,
+        "g": 50,
+        "b": 50
+      },
+      "bottomRight": {
+        "r": 73,
+        "g": 55,
+        "b": 55
+      }
+    }
+  },
+  {
+    "name": "Winter's_Approach_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 71,
+        "g": 92,
+        "b": 116
+      },
+      "topRight": {
+        "r": 75,
+        "g": 88,
+        "b": 105
+      },
+      "bottomLeft": {
+        "r": 39,
+        "g": 71,
+        "b": 115
+      },
+      "bottomRight": {
+        "r": 44,
+        "g": 67,
+        "b": 98
+      }
+    }
+  },
+  {
+    "name": "Wit's_End_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 74,
+        "g": 75,
+        "b": 170
+      },
+      "topRight": {
+        "r": 119,
+        "g": 31,
+        "b": 136
+      },
+      "bottomLeft": {
+        "r": 99,
+        "g": 29,
+        "b": 133
+      },
+      "bottomRight": {
+        "r": 98,
+        "g": 42,
+        "b": 94
+      }
+    }
+  },
+  {
+    "name": "Wordless_Promise_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 101,
+        "g": 86,
+        "b": 91
+      },
+      "topRight": {
+        "r": 62,
+        "g": 81,
+        "b": 62
+      },
+      "bottomLeft": {
+        "r": 97,
+        "g": 60,
+        "b": 86
+      },
+      "bottomRight": {
+        "r": 129,
+        "g": 102,
+        "b": 93
+      }
+    }
+  },
+  {
+    "name": "World_Atlas_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 116,
+        "g": 108,
+        "b": 75
+      },
+      "topRight": {
+        "r": 97,
+        "g": 97,
+        "b": 76
+      },
+      "bottomLeft": {
+        "r": 44,
+        "g": 58,
+        "b": 57
+      },
+      "bottomRight": {
+        "r": 62,
+        "g": 57,
+        "b": 46
+      }
+    }
+  },
+  {
+    "name": "Youmuu's_Ghostblade_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 77,
+        "g": 43,
+        "b": 104
+      },
+      "topRight": {
+        "r": 95,
+        "g": 57,
+        "b": 116
+      },
+      "bottomLeft": {
+        "r": 94,
+        "g": 62,
+        "b": 113
+      },
+      "bottomRight": {
+        "r": 90,
+        "g": 57,
+        "b": 107
+      }
+    }
+  },
+  {
+    "name": "Yun_Tal_Wildarrows_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 164,
+        "g": 146,
+        "b": 91
+      },
+      "topRight": {
+        "r": 157,
+        "g": 131,
+        "b": 85
+      },
+      "bottomLeft": {
+        "r": 145,
+        "g": 109,
+        "b": 95
+      },
+      "bottomRight": {
+        "r": 191,
+        "g": 150,
+        "b": 101
+      }
+    }
+  },
+  {
+    "name": "Zaz'Zak's_Realmspike_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 126,
+        "g": 33,
+        "b": 140
+      },
+      "topRight": {
+        "r": 120,
+        "g": 50,
+        "b": 128
+      },
+      "bottomLeft": {
+        "r": 117,
+        "g": 45,
+        "b": 121
+      },
+      "bottomRight": {
+        "r": 117,
+        "g": 45,
+        "b": 124
+      }
+    }
+  },
+  {
+    "name": "Zeal_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 116,
+        "g": 93,
+        "b": 39
+      },
+      "topRight": {
+        "r": 112,
+        "g": 88,
+        "b": 35
+      },
+      "bottomLeft": {
+        "r": 101,
+        "g": 71,
+        "b": 34
+      },
+      "bottomRight": {
+        "r": 97,
+        "g": 66,
+        "b": 27
+      }
+    }
+  },
+  {
+    "name": "Zeke's_Convergence_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 118,
+        "g": 97,
+        "b": 76
+      },
+      "topRight": {
+        "r": 106,
+        "g": 107,
+        "b": 98
+      },
+      "bottomLeft": {
+        "r": 111,
+        "g": 53,
+        "b": 40
+      },
+      "bottomRight": {
+        "r": 52,
+        "g": 85,
+        "b": 107
+      }
+    }
+  },
+  {
+    "name": "Zhonya's_Hourglass_item.png",
+    "quadrants": {
+      "topLeft": {
+        "r": 124,
+        "g": 112,
+        "b": 75
+      },
+      "topRight": {
+        "r": 76,
+        "g": 86,
+        "b": 86
+      },
+      "bottomLeft": {
+        "r": 36,
+        "g": 70,
+        "b": 106
+      },
+      "bottomRight": {
+        "r": 110,
+        "g": 120,
+        "b": 104
+      }
+    }
+  }
+]
