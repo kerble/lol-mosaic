@@ -51,7 +51,6 @@ function processImage(img) {
   const canvas = document.getElementById('sourceCanvas');
   const ctx = canvas.getContext('2d');
 
-  // const maxGridSize = 128;
   const mode = document.getElementById("modeSelect").value;
   let gridWidth, gridHeight;
 
@@ -59,7 +58,7 @@ function processImage(img) {
     gridWidth = 10;
     gridHeight = 7;
   } else {
-    const maxGridSize = 128;
+    const maxGridSize = 64;
     if (img.width >= img.height) {
       gridWidth = maxGridSize;
       gridHeight = Math.max(1, Math.round((img.height / img.width) * maxGridSize));
