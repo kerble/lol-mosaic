@@ -149,17 +149,18 @@ function drawMosaic(gridColors, gridWidth, gridHeight) {
   canvas.width = gridWidth * itemSize;
   canvas.height = gridHeight * itemSize;
 
-  gridColors.forEach(async (cellColor, index) => {
+  // .map + Promise.all instead of .forEach(async ...) — forEach never awaits
+  // its callback, so downstream code (the downscale step below) used to run
+  // before tiles actually finished drawing.
+  const drawPromises = gridColors.map(async (cellColor, index) => {
     const bestMatch = findClosestItem(cellColor);
+    if (!bestMatch) return;
+
     usedItems.add(bestMatch.name);
-    console.log("Best match:", bestMatch.name, "| ID:", bestMatch.id);
-    if (bestMatch && bestMatch.id) {
+    if (bestMatch.id) {
       usedItemIdStack.push(bestMatch.id); // ⬅ Push each use, preserving order
     }
-    
-    
-    if (!bestMatch) return;
-    
+
     if (!itemImages[bestMatch.name]) {
       const img = new Image();
       img.src = `${itemFolder}/${bestMatch.name}`;
@@ -168,14 +169,63 @@ function drawMosaic(gridColors, gridWidth, gridHeight) {
       });
       itemImages[bestMatch.name] = img;
     }
-    
+
     const img = itemImages[bestMatch.name];
     const x = (index % gridWidth) * itemSize;
     const y = Math.floor(index / gridWidth) * itemSize;
     ctx.drawImage(img, x, y, itemSize, itemSize);
   });
-  // console.log("Final usedItemIds:", usedItemIds);
+
+  Promise.all(drawPromises).then(() => {
+    console.log("Mosaic fully drawn:", canvas.width, "x", canvas.height);
+    updateDownloadPreview();
+  });
 }
+
+// ---- Downscale-for-download ----
+// The full-resolution canvas stays exactly as large as the grid makes it
+// (that's what keeps item detail high). We only shrink a COPY of it, on a
+// separate offscreen canvas, purely for the file you download.
+const MAX_OUTPUT_DIMENSION = 1080;
+
+function updateDownloadPreview() {
+  const fullCanvas = document.getElementById('mosaicCanvas');
+
+  const scale = Math.min(
+    1,
+    MAX_OUTPUT_DIMENSION / Math.max(fullCanvas.width, fullCanvas.height)
+  );
+  const outWidth = Math.round(fullCanvas.width * scale);
+  const outHeight = Math.round(fullCanvas.height * scale);
+
+  const scaledCanvas = document.createElement('canvas');
+  scaledCanvas.width = outWidth;
+  scaledCanvas.height = outHeight;
+  const sctx = scaledCanvas.getContext('2d');
+  sctx.imageSmoothingEnabled = true;
+  sctx.imageSmoothingQuality = 'high';
+  sctx.drawImage(fullCanvas, 0, 0, outWidth, outHeight);
+
+  window.latestScaledCanvas = scaledCanvas;
+
+  const downloadBtn = document.getElementById('downloadBtn');
+  if (downloadBtn) downloadBtn.disabled = false;
+}
+
+document.getElementById('downloadBtn')?.addEventListener('click', () => {
+  if (!window.latestScaledCanvas) {
+    alert("Generate a mosaic first.");
+    return;
+  }
+  window.latestScaledCanvas.toBlob((blob) => {
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'mosaic.png';
+    a.click();
+    URL.revokeObjectURL(url);
+  }, 'image/png');
+});
   
 
 document.getElementById('exportItemSetBtn').addEventListener('click', () => {
@@ -213,18 +263,36 @@ document.getElementById('exportItemSetBtn').addEventListener('click', () => {
 });
 
 
+// Presets are just SOURCE IMAGES (like a manual upload), not pre-baked
+// mosaic data — they run through processImage() exactly like an upload,
+// respecting whichever mode (High-Res / Item Set) is currently selected.
+// The user then chooses whether to download the image or export the item
+// set afterward, same as with any upload.
+const PRESET_IMAGES = {
+  heart: 'presets/images/heart.png',
+  creeper: 'presets/images/creeper.png'
+};
+
 document.getElementById('presetSelect').addEventListener('change', (e) => {
   const preset = e.target.value;
   if (!preset) return;
 
-  fetch(`presets/${preset}.json`)
-    .then(res => res.json())
-    .then(data => {
-      console.log(`✅ Loaded preset "${preset}"`);
-      drawMosaic(data.gridColors, data.gridWidth, data.gridHeight);
-    })
-    .catch(err => {
-      console.error(`❌ Failed to load preset "${preset}":`, err);
-      alert("Failed to load preset. Please try again.");
-    });
+  const path = PRESET_IMAGES[preset];
+  if (!path) {
+    console.error(`No image mapped for preset "${preset}"`);
+    return;
+  }
+
+  const img = new Image();
+  img.onload = () => {
+    if (itemData.length === 0) {
+      console.warn("Item data not loaded yet — mosaic will not render.");
+    }
+    processImage(img);
+  };
+  img.onerror = () => {
+    console.error(`❌ Failed to load preset image at "${path}"`);
+    alert(`Failed to load the "${preset}" preset image. Make sure ${path} exists in the repo.`);
+  };
+  img.src = path;
 });
