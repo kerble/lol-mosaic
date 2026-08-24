@@ -1,5 +1,3 @@
-// const gridWidth = 128;
-// const gridHeight = 128;
 const itemSize = 64; // or whatever your icon size is
 let itemIdMap = {}; // key: filename, value: ID string
 
@@ -58,7 +56,7 @@ function processImage(img) {
     gridWidth = 10;
     gridHeight = 7;
   } else {
-    const maxGridSize = 64;
+    const maxGridSize = 128;
     if (img.width >= img.height) {
       gridWidth = maxGridSize;
       gridHeight = Math.max(1, Math.round((img.height / img.width) * maxGridSize));
