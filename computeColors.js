@@ -9,8 +9,8 @@ const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
 
-const assetsDir = path.join(__dirname, 'assets');
-const outputFile = path.join(__dirname, 'item-colors.json');
+const assetsDir = path.join(__dirname, 'assets/rift');
+const outputFile = path.join(__dirname, 'rift-item-colors.json');
 
 async function computeAverageRGB(data) {
     let r = 0, g = 0, b = 0;
