@@ -9,10 +9,26 @@
 <body>
   <h1>League of Legends Item Mosaic</h1>
   <input type="file" id="imageUploader" accept="image/*">
+  <label for="modeSelect">Mosaic Mode:</label>
+  <select id="modeSelect">
+    <option value="highres">High-Res Mosaic</option>
+    <option value="itemset">League Item Set (10x7)</option>
+  </select>
+
+  <label for="presetSelect">Presets:</label>
+  <select id="presetSelect">
+    <option value="">-- None --</option>
+    <option value="heart">❤️ Heart</option>
+    <option value="creeper">🟩 Creeper Face</option>
+  </select>
+
+  
   <canvas id="sourceCanvas" style="display:none;"></canvas>
   <canvas id="mosaicCanvas"></canvas>
+  <button id="exportItemSetBtn">Export Item Set JSON</button>
+
   <br /><br />
-  <canvas id="outputCanvas"></canvas>
+  <!-- <canvas id="outputCanvas"></canvas> -->
   <script src="drawMosaic.js"></script>
 </body>
 </html>
